@@ -983,98 +983,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228586/index.m3u8
 #EXTINF:-1 tvg-name="戏曲" tvg-logo="https://live.fanmingming.cn/tv/戏曲.png" group-title="江苏移动",戏曲
 http://ott.mobaibox.com/PLTV/4/224/3221228673/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="黑龙江移动",睛彩青少
-http://39.134.65.106/PLTV/88888888/224/3221226053/1.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="黑龙江移动",睛彩青少
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="黑龙江移动",睛彩篮球
-http://39.134.65.106/PLTV/88888888/224/3221226027/1.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="黑龙江移动",睛彩篮球
-http://39.134.65.106/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="黑龙江移动",睛彩篮球
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="黑龙江移动",睛彩篮球
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="黑龙江移动",睛彩竞技
-http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="黑龙江移动",睛彩竞技
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="黑龙江移动",睛彩广场舞
-http://39.134.65.106/PLTV/88888888/224/3221226143/1.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="黑龙江移动",睛彩广场舞
-http://39.134.65.106/PLTV/88888888/224/3221226046/1.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="黑龙江移动",睛彩广场舞
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="黑龙江移动",睛彩广场舞
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.cn/tv/超级体育.png" group-title="黑龙江移动",超级体育
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5611" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5611.png" group-title="黑龙江移动",咪咕视频5611
-http://39.134.65.106/PLTV/88888888/224/3221225611/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5613" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5613.png" group-title="黑龙江移动",咪咕视频5613
-http://39.134.65.106/PLTV/88888888/224/3221225613/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5619" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5619.png" group-title="黑龙江移动",咪咕视频5619
-http://39.134.65.106/PLTV/88888888/224/3221225619/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5620" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5620.png" group-title="黑龙江移动",咪咕视频5620
-http://39.134.65.106/PLTV/88888888/224/3221225620/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5639" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5639.png" group-title="黑龙江移动",咪咕视频5639
-http://39.134.65.106/PLTV/88888888/224/3221225639/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5641" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5641.png" group-title="黑龙江移动",咪咕视频5641
-http://39.134.65.106/PLTV/88888888/224/3221225641/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5643" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5643.png" group-title="黑龙江移动",咪咕视频5643
-http://39.134.65.106/PLTV/88888888/224/3221225643/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5645" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5645.png" group-title="黑龙江移动",咪咕视频5645
-http://39.134.65.106/PLTV/88888888/224/3221225645/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5647" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5647.png" group-title="黑龙江移动",咪咕视频5647
-http://39.134.65.106/PLTV/88888888/224/3221225647/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5648" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5648.png" group-title="黑龙江移动",咪咕视频5648
-http://39.134.65.106/PLTV/88888888/224/3221225648/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5649" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5649.png" group-title="黑龙江移动",咪咕视频5649
-http://39.134.65.106/PLTV/88888888/224/3221225649/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5650" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5650.png" group-title="黑龙江移动",咪咕视频5650
-http://39.134.65.106/PLTV/88888888/224/3221225650/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5652" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5652.png" group-title="黑龙江移动",咪咕视频5652
-http://39.134.65.106/PLTV/88888888/224/3221225652/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5653" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5653.png" group-title="黑龙江移动",咪咕视频5653
-http://39.134.65.106/PLTV/88888888/224/3221225653/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5654" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5654.png" group-title="黑龙江移动",咪咕视频5654
-http://39.134.65.106/PLTV/88888888/224/3221225654/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5658" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5658.png" group-title="黑龙江移动",咪咕视频5658
-http://39.134.65.106/PLTV/88888888/224/3221225658/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5660" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5660.png" group-title="黑龙江移动",咪咕视频5660
-http://39.134.65.106/PLTV/88888888/224/3221225660/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5662" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5662.png" group-title="黑龙江移动",咪咕视频5662
-http://39.134.65.106/PLTV/88888888/224/3221225662/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5733" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5733.png" group-title="黑龙江移动",咪咕视频5733
-http://39.134.65.106/PLTV/88888888/224/3221225733/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5737" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5737.png" group-title="黑龙江移动",咪咕视频5737
-http://39.134.65.106/PLTV/88888888/224/3221225737/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5739" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5739.png" group-title="黑龙江移动",咪咕视频5739
-http://39.134.65.106/PLTV/88888888/224/3221225739/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5754" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5754.png" group-title="黑龙江移动",咪咕视频5754
-http://39.134.65.106/PLTV/88888888/224/3221225754/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5756" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5756.png" group-title="黑龙江移动",咪咕视频5756
-http://39.134.65.106/PLTV/88888888/224/3221225756/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5758" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5758.png" group-title="黑龙江移动",咪咕视频5758
-http://39.134.65.106/PLTV/88888888/224/3221225758/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5760" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5760.png" group-title="黑龙江移动",咪咕视频5760
-http://39.134.65.106/PLTV/88888888/224/3221225760/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5899" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5899.png" group-title="黑龙江移动",咪咕视频5899
-http://39.134.65.106/PLTV/88888888/224/3221225899/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5901" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5901.png" group-title="黑龙江移动",咪咕视频5901
-http://39.134.65.106/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5903" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5903.png" group-title="黑龙江移动",咪咕视频5903
-http://39.134.65.106/PLTV/88888888/224/3221225903/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5905" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5905.png" group-title="黑龙江移动",咪咕视频5905
-http://39.134.65.106/PLTV/88888888/224/3221225905/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5910" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5910.png" group-title="黑龙江移动",咪咕视频5910
-http://39.134.65.106/PLTV/88888888/224/3221225910/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5912" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5912.png" group-title="黑龙江移动",咪咕视频5912
-http://39.134.65.106/PLTV/88888888/224/3221225912/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频5914" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频5914.png" group-title="黑龙江移动",咪咕视频5914
-http://39.134.65.106/PLTV/88888888/224/3221225914/1.m3u8
-#EXTINF:-1 tvg-name="咪咕视频6031" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频6031.png" group-title="黑龙江移动",咪咕视频6031
-http://39.134.65.106/PLTV/88888888/224/3221226031/1.m3u8
 #EXTINF:-1 tvg-name="睛彩少年" tvg-logo="https://live.fanmingming.cn/tv/睛彩少年.png" group-title="YanG-1989",睛彩少年
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="YanG-1989",睛彩篮球
@@ -1247,10 +1155,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="4K",CCTV8K
 http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="4K",北京卫视4K
-http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="4K",北京卫视4K
-http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="4K",广东卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="4K",深圳卫视4K
@@ -1262,11 +1166,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" tvg-logo="https://live.fanmingming.cn/tv/4K修复.png" group-title="4K",4K修复
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-name="至臻世界4K" tvg-logo="https://live.fanmingming.cn/tv/至臻世界4K.png" group-title="4K",至臻世界4K
-http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
-#EXTINF:-1 tvg-name="至臻世界4K" tvg-logo="https://live.fanmingming.cn/tv/至臻世界4K.png" group-title="4K",至臻世界4K
 http://gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕视频4K" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频4K.png" group-title="4K",咪咕视频4K
-http://39.134.65.106/PLTV/88888888/224/3221225655/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频4K" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频4K.png" group-title="4K",咪咕视频4K
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕视频4K" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频4K.png" group-title="4K",咪咕视频4K
