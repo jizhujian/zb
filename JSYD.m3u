@@ -931,24 +931,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221227598/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227586/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="江苏移动",哈哈炫动
 http://ott.mobaibox.com/PLTV/4/224/3221226388/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="江苏移动",睛彩青少
-http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="江苏移动",睛彩青少
-http://ott.mobaibox.com/PLTV/4/224/3221228729/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="江苏移动",睛彩篮球
-http://ott.mobaibox.com/PLTV/4/224/3221228234/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="江苏移动",睛彩篮球
-http://ott.mobaibox.com/PLTV/4/224/3221228129/index.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="江苏移动",睛彩竞技
-http://ott.mobaibox.com/PLTV/4/224/3221228206/index.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="江苏移动",睛彩广场舞
-http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="江苏移动",睛彩广场舞
-http://ott.mobaibox.com/PLTV/4/224/3221228818/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="江苏移动",咪咕视频
 http://ott.mobaibox.com/PLTV/4/224/3221228193/index.m3u8
-#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.cn/tv/咪咕体育.png" group-title="江苏移动",咪咕体育
-http://ott.mobaibox.com/PLTV/4/224/3221228713/index.m3u8
 #EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://live.fanmingming.cn/tv/咪咕音乐.png" group-title="江苏移动",咪咕音乐
 http://ott.mobaibox.com/PLTV/4/224/3221228444/index.m3u8
 #EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://live.fanmingming.cn/tv/咪咕音乐.png" group-title="江苏移动",咪咕音乐
@@ -983,156 +967,82 @@ http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228586/index.m3u8
 #EXTINF:-1 tvg-name="戏曲" tvg-logo="https://live.fanmingming.cn/tv/戏曲.png" group-title="江苏移动",戏曲
 http://ott.mobaibox.com/PLTV/4/224/3221228673/index.m3u8
-#EXTINF:-1 tvg-name="睛彩少年" tvg-logo="https://live.fanmingming.cn/tv/睛彩少年.png" group-title="YanG-1989",睛彩少年
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="YanG-1989",睛彩篮球
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="YanG-1989",睛彩篮球
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="YanG-1989",睛彩竞技
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="YanG-1989",睛彩竞技
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="YanG-1989",睛彩广场舞
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="YanG-1989",睛彩广场舞
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙.png" group-title="YanG-1989",咪咕视频 𝟙
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙.png" group-title="YanG-1989",咪咕视频 𝟙
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="咪咕体育",睛彩青少
+http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="咪咕体育",睛彩青少
+http://ott.mobaibox.com/PLTV/4/224/3221228729/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="咪咕体育",睛彩篮球
+http://ott.mobaibox.com/PLTV/4/224/3221228234/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="咪咕体育",睛彩篮球
+http://ott.mobaibox.com/PLTV/4/224/3221228129/index.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="咪咕体育",睛彩竞技
+http://ott.mobaibox.com/PLTV/4/224/3221228206/index.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="咪咕体育",睛彩广场舞
+http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="咪咕体育",睛彩广场舞
+http://ott.mobaibox.com/PLTV/4/224/3221228818/index.m3u8
+#EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.cn/tv/咪咕体育.png" group-title="咪咕体育",咪咕体育
+http://ott.mobaibox.com/PLTV/4/224/3221228713/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙.png" group-title="咪咕体育",咪咕视频 𝟙
 http://gslbserv.itv.cmvideo.cn/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚.png" group-title="YanG-1989",咪咕视频 𝟚
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚.png" group-title="YanG-1989",咪咕视频 𝟚
+#EXTINF:-1 tvg-name="咪咕视频 𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚.png" group-title="咪咕体育",咪咕视频 𝟚
 http://gslbserv.itv.cmvideo.cn/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛.png" group-title="YanG-1989",咪咕视频 𝟛
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛.png" group-title="YanG-1989",咪咕视频 𝟛
+#EXTINF:-1 tvg-name="咪咕视频 𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛.png" group-title="咪咕体育",咪咕视频 𝟛
 http://gslbserv.itv.cmvideo.cn/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟜.png" group-title="YanG-1989",咪咕视频 𝟜
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟜.png" group-title="YanG-1989",咪咕视频 𝟜
+#EXTINF:-1 tvg-name="咪咕视频 𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟜.png" group-title="咪咕体育",咪咕视频 𝟜
 http://gslbserv.itv.cmvideo.cn/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟝.png" group-title="YanG-1989",咪咕视频 𝟝
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟝.png" group-title="YanG-1989",咪咕视频 𝟝
+#EXTINF:-1 tvg-name="咪咕视频 𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟝.png" group-title="咪咕体育",咪咕视频 𝟝
 http://gslbserv.itv.cmvideo.cn/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟞.png" group-title="YanG-1989",咪咕视频 𝟞
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟞.png" group-title="YanG-1989",咪咕视频 𝟞
+#EXTINF:-1 tvg-name="咪咕视频 𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟞.png" group-title="咪咕体育",咪咕视频 𝟞
 http://gslbserv.itv.cmvideo.cn/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟟.png" group-title="YanG-1989",咪咕视频 𝟟
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟟.png" group-title="YanG-1989",咪咕视频 𝟟
+#EXTINF:-1 tvg-name="咪咕视频 𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟟.png" group-title="咪咕体育",咪咕视频 𝟟
 http://gslbserv.itv.cmvideo.cn/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟠.png" group-title="YanG-1989",咪咕视频 𝟠
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟠.png" group-title="YanG-1989",咪咕视频 𝟠
+#EXTINF:-1 tvg-name="咪咕视频 𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟠.png" group-title="咪咕体育",咪咕视频 𝟠
 http://gslbserv.itv.cmvideo.cn/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟡.png" group-title="YanG-1989",咪咕视频 𝟡
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟡.png" group-title="YanG-1989",咪咕视频 𝟡
+#EXTINF:-1 tvg-name="咪咕视频 𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟡.png" group-title="咪咕体育",咪咕视频 𝟡
 http://gslbserv.itv.cmvideo.cn/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟘.png" group-title="YanG-1989",咪咕视频 𝟙𝟘
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟘.png" group-title="YanG-1989",咪咕视频 𝟙𝟘
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟘.png" group-title="咪咕体育",咪咕视频 𝟙𝟘
 http://gslbserv.itv.cmvideo.cn/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟙.png" group-title="YanG-1989",咪咕视频 𝟙𝟙
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟙.png" group-title="YanG-1989",咪咕视频 𝟙𝟙
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟙.png" group-title="咪咕体育",咪咕视频 𝟙𝟙
 http://gslbserv.itv.cmvideo.cn/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟚.png" group-title="YanG-1989",咪咕视频 𝟙𝟚
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟚.png" group-title="YanG-1989",咪咕视频 𝟙𝟚
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟚.png" group-title="咪咕体育",咪咕视频 𝟙𝟚
 http://gslbserv.itv.cmvideo.cn/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟛.png" group-title="YanG-1989",咪咕视频 𝟙𝟛
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟛.png" group-title="YanG-1989",咪咕视频 𝟙𝟛
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟛.png" group-title="咪咕体育",咪咕视频 𝟙𝟛
 http://gslbserv.itv.cmvideo.cn/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟜.png" group-title="YanG-1989",咪咕视频 𝟙𝟜
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟜.png" group-title="YanG-1989",咪咕视频 𝟙𝟜
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟜.png" group-title="咪咕体育",咪咕视频 𝟙𝟜
 http://gslbserv.itv.cmvideo.cn/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟝.png" group-title="YanG-1989",咪咕视频 𝟙𝟝
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟝.png" group-title="YanG-1989",咪咕视频 𝟙𝟝
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟝.png" group-title="咪咕体育",咪咕视频 𝟙𝟝
 http://gslbserv.itv.cmvideo.cn/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟞.png" group-title="YanG-1989",咪咕视频 𝟙𝟞
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟞.png" group-title="YanG-1989",咪咕视频 𝟙𝟞
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟞.png" group-title="咪咕体育",咪咕视频 𝟙𝟞
 http://gslbserv.itv.cmvideo.cn/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟟.png" group-title="YanG-1989",咪咕视频 𝟙𝟟
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟟.png" group-title="YanG-1989",咪咕视频 𝟙𝟟
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟟.png" group-title="咪咕体育",咪咕视频 𝟙𝟟
 http://gslbserv.itv.cmvideo.cn/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟠.png" group-title="YanG-1989",咪咕视频 𝟙𝟠
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟠.png" group-title="YanG-1989",咪咕视频 𝟙𝟠
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟠.png" group-title="咪咕体育",咪咕视频 𝟙𝟠
 http://gslbserv.itv.cmvideo.cn/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟡.png" group-title="YanG-1989",咪咕视频 𝟙𝟡
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟡.png" group-title="YanG-1989",咪咕视频 𝟙𝟡
+#EXTINF:-1 tvg-name="咪咕视频 𝟙𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟙𝟡.png" group-title="咪咕体育",咪咕视频 𝟙𝟡
 http://gslbserv.itv.cmvideo.cn/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟘.png" group-title="YanG-1989",咪咕视频 𝟚𝟘
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟘.png" group-title="YanG-1989",咪咕视频 𝟚𝟘
+#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟘.png" group-title="咪咕体育",咪咕视频 𝟚𝟘
 http://gslbserv.itv.cmvideo.cn/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟙.png" group-title="YanG-1989",咪咕视频 𝟚𝟙
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟙.png" group-title="YanG-1989",咪咕视频 𝟚𝟙
+#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟙.png" group-title="咪咕体育",咪咕视频 𝟚𝟙
 http://gslbserv.itv.cmvideo.cn/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟚.png" group-title="YanG-1989",咪咕视频 𝟚𝟚
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟛.png" group-title="YanG-1989",咪咕视频 𝟚𝟛
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟛.png" group-title="YanG-1989",咪咕视频 𝟚𝟛
+#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟛.png" group-title="咪咕体育",咪咕视频 𝟚𝟛
 http://gslbserv.itv.cmvideo.cn/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟜.png" group-title="YanG-1989",咪咕视频 𝟚𝟜
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟜.png" group-title="YanG-1989",咪咕视频 𝟚𝟜
+#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟜.png" group-title="咪咕体育",咪咕视频 𝟚𝟜
 http://gslbserv.itv.cmvideo.cn/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟝.png" group-title="YanG-1989",咪咕视频 𝟚𝟝
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟞.png" group-title="YanG-1989",咪咕视频 𝟚𝟞
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟞.png" group-title="YanG-1989",咪咕视频 𝟚𝟞
+#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟞.png" group-title="咪咕体育",咪咕视频 𝟚𝟞
 http://gslbserv.itv.cmvideo.cn/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟟.png" group-title="YanG-1989",咪咕视频 𝟚𝟟
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟠.png" group-title="YanG-1989",咪咕视频 𝟚𝟠
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟠.png" group-title="YanG-1989",咪咕视频 𝟚𝟠
+#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟠.png" group-title="咪咕体育",咪咕视频 𝟚𝟠
 http://gslbserv.itv.cmvideo.cn/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟡.png" group-title="YanG-1989",咪咕视频 𝟚𝟡
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟡.png" group-title="YanG-1989",咪咕视频 𝟚𝟡
+#EXTINF:-1 tvg-name="咪咕视频 𝟚𝟡" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟚𝟡.png" group-title="咪咕体育",咪咕视频 𝟚𝟡
 http://gslbserv.itv.cmvideo.cn/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟘.png" group-title="YanG-1989",咪咕视频 𝟛𝟘
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟘.png" group-title="YanG-1989",咪咕视频 𝟛𝟘
+#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟘" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟘.png" group-title="咪咕体育",咪咕视频 𝟛𝟘
 http://gslbserv.itv.cmvideo.cn/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟙.png" group-title="YanG-1989",咪咕视频 𝟛𝟙
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟙.png" group-title="YanG-1989",咪咕视频 𝟛𝟙
+#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟙" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟙.png" group-title="咪咕体育",咪咕视频 𝟛𝟙
 http://gslbserv.itv.cmvideo.cn/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟚.png" group-title="YanG-1989",咪咕视频 𝟛𝟚
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟚.png" group-title="YanG-1989",咪咕视频 𝟛𝟚
+#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟚" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟚.png" group-title="咪咕体育",咪咕视频 𝟛𝟚
 http://gslbserv.itv.cmvideo.cn/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟛.png" group-title="YanG-1989",咪咕视频 𝟛𝟛
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟛.png" group-title="YanG-1989",咪咕视频 𝟛𝟛
+#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟛" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟛.png" group-title="咪咕体育",咪咕视频 𝟛𝟛
 http://gslbserv.itv.cmvideo.cn/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟜" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟜.png" group-title="YanG-1989",咪咕视频 𝟛𝟜
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟝" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟝.png" group-title="YanG-1989",咪咕视频 𝟛𝟝
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟞" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟞.png" group-title="YanG-1989",咪咕视频 𝟛𝟞
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟟" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟟.png" group-title="YanG-1989",咪咕视频 𝟛𝟟
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕视频 𝟛𝟠" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频 𝟛𝟠.png" group-title="YanG-1989",咪咕视频 𝟛𝟠
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="睛彩篮球4K" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球4K.png" group-title="4K",睛彩篮球4K
 http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技4K" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技4K.png" group-title="4K",睛彩竞技4K
@@ -1167,8 +1077,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-name="至臻世界4K" tvg-logo="https://live.fanmingming.cn/tv/至臻世界4K.png" group-title="4K",至臻世界4K
 http://gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="咪咕视频4K" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频4K.png" group-title="4K",咪咕视频4K
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕视频4K" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频4K.png" group-title="4K",咪咕视频4K
 http://gslbserv.itv.cmvideo.cn/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://live.fanmingming.cn/tv/南通新闻综合.png" group-title="其他",南通新闻综合

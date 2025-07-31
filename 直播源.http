@@ -1,0 +1,18 @@
+#### 电视直播
+GET https://tv.iill.top/m3u/Gather
+
+
+### 网络直播
+GET https://tv.iill.top/m3u/Live
+
+
+### myTV直播
+GET https://tv.iill.top/m3u/MyTV
+
+
+### 体育直播
+GET https://tv.iill.top/m3u/Sport
+
+
+### 影视JSON
+GET https://tv.iill.top/json/Gather
