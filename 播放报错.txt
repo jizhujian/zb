@@ -8,3 +8,5 @@
 
 北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8
 北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
+
+咪咕视频,http://ott.mobaibox.com/PLTV/4/224/3221228193/index.m3u8
