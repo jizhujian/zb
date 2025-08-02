@@ -478,7 +478,6 @@ NewTV,#genre#
 
 新沂-1,http://ott.mobaibox.com/PLTV/4/224/3221227289/index.m3u8
 新沂-2,http://ott.mobaibox.com/PLTV/4/224/3221227311/index.m3u8
-贾汪新闻,http://ott.mobaibox.com/PLTV/4/224/3221227385/index.m3u8
 铜山-1,http://ott.mobaibox.com/PLTV/4/224/3221228152/index.m3u8
 铜山-2,http://ott.mobaibox.com/PLTV/4/224/3221228081/index.m3u8
 铜山-3,http://ott.mobaibox.com/PLTV/4/224/3221228055/index.m3u8
@@ -489,9 +488,7 @@ NewTV,#genre#
 睢宁综合,http://ott.mobaibox.com/PLTV/4/224/3221227706/index.m3u8
 睢宁三农,http://ott.mobaibox.com/PLTV/4/224/3221227709/index.m3u8
 睢宁资讯,http://ott.mobaibox.com/PLTV/4/224/3221227712/index.m3u8
-邳州综合,http://ott.mobaibox.com/PLTV/4/224/3221227576/index.m3u8
 
-镇江-1,http://ott.mobaibox.com/PLTV/4/224/3221228246/index.m3u8
 镇江-2,http://ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8
 镇江-3,http://ott.mobaibox.com/PLTV/4/224/3221228208/index.m3u8
 
@@ -517,16 +514,6 @@ NewTV,#genre#
 宿迁公共,http://ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
 宿迁综合,http://ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8
 沭阳综合,http://ott.mobaibox.com/PLTV/4/224/3221228812/index.m3u8
-
-浙江,#genre#
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 4K,#genre#
 睛彩篮球-4K,http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
@@ -570,12 +557,10 @@ CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 动画1,http://ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
 动画2,http://ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
 动画3,http://ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
-动画4,http://ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 动画5,http://ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
 动画6,http://ott.mobaibox.com/PLTV/4/224/3221228603/index.m3u8
 记录1,http://ott.mobaibox.com/PLTV/4/224/3221228559/index.m3u8
 记录2,http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
-记录3,http://ott.mobaibox.com/PLTV/4/224/3221228588/index.m3u8
 健身,http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
 棋牌,http://ott.mobaibox.com/PLTV/4/224/3221228586/index.m3u8
 戏曲,http://ott.mobaibox.com/PLTV/4/224/3221228673/index.m3u8
