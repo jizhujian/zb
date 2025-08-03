@@ -431,6 +431,7 @@ NewTV,#genre#
 南通新闻综合,http://cm-live.ntjoy.com/live/4f1.m3u8
 南通-2,https://cm-live.ntjoy.com/live/4f3.m3u8
 崇川公共,https://cm-live.ntjoy.com/live/4f5.m3u8
+如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 
 江苏影视,http://ott.mobaibox.com/PLTV/4/224/3221228728/index.m3u8
 江苏综艺,http://ott.mobaibox.com/PLTV/4/224/3221228731/index.m3u8
@@ -448,8 +449,6 @@ NewTV,#genre#
 南京十八,http://ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
 南京教科,http://ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
 南京少儿,http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
-南京信息,http://ott.mobaibox.com/PLTV/4/224/3221227730/index.m3u8
-南京信息,http://ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8
 
 昆山新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221228820/index.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
@@ -471,7 +470,13 @@ NewTV,#genre#
 盐城-1,http://ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
 盐城-2,http://ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
 盐城-3,http://ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
+大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 
+徐州-1,http://ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
+徐州-2,http://ott.mobaibox.com/PLTV/4/224/3221225947/index.m3u8
+徐州-3,http://ott.mobaibox.com/PLTV/4/224/3221225949/index.m3u8
+徐州-4,http://ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
 新沂-1,http://ott.mobaibox.com/PLTV/4/224/3221227289/index.m3u8
 新沂-2,http://ott.mobaibox.com/PLTV/4/224/3221227311/index.m3u8
 铜山-1,http://ott.mobaibox.com/PLTV/4/224/3221228152/index.m3u8
@@ -484,10 +489,15 @@ NewTV,#genre#
 睢宁综合,http://ott.mobaibox.com/PLTV/4/224/3221227706/index.m3u8
 睢宁三农,http://ott.mobaibox.com/PLTV/4/224/3221227709/index.m3u8
 睢宁资讯,http://ott.mobaibox.com/PLTV/4/224/3221227712/index.m3u8
+睢宁综合,http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 
+镇江-1,http://ott.mobaibox.com/PLTV/4/224/3221228246/index.m3u8
 镇江-2,http://ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8
 镇江-3,http://ott.mobaibox.com/PLTV/4/224/3221228208/index.m3u8
 
+扬州-1,http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
+扬州-2,http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
+扬州-3,http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
 宝应新闻,http://ott.mobaibox.com/PLTV/4/224/3221228007/index.m3u8
 江都,http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
 
@@ -510,6 +520,9 @@ NewTV,#genre#
 宿迁公共,http://ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
 宿迁综合,http://ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8
 沭阳综合,http://ott.mobaibox.com/PLTV/4/224/3221228812/index.m3u8
+沭阳综合,https://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+泗阳综合,https://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 
 4K,#genre#
 睛彩篮球-4K,http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
@@ -530,21 +543,15 @@ CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 4K修复,http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 至臻世界-4K,http://gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 咪咕视频-4K,http://gslbserv.itv.cmvideo.cn/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 不能播放,#genre#
 北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8
 北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
-徐州-1,http://ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
-徐州-2,http://ott.mobaibox.com/PLTV/4/224/3221225947/index.m3u8
-徐州-3,http://ott.mobaibox.com/PLTV/4/224/3221225949/index.m3u8
-徐州-4,http://ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
-镇江-1,http://ott.mobaibox.com/PLTV/4/224/3221228246/index.m3u8
 连云港新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221227758/index.m3u8
 连云港生活,http://ott.mobaibox.com/PLTV/4/224/3221227819/index.m3u8
 贾汪新闻,http://ott.mobaibox.com/PLTV/4/224/3221227385/index.m3u8
 邳州综合,http://ott.mobaibox.com/PLTV/4/224/3221227576/index.m3u8
-动画4,http://ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
-记录3,http://ott.mobaibox.com/PLTV/4/224/3221228588/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -577,10 +584,12 @@ CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 动画1,http://ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
 动画2,http://ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
 动画3,http://ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
+动画4,http://ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 动画5,http://ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
 动画6,http://ott.mobaibox.com/PLTV/4/224/3221228603/index.m3u8
 记录1,http://ott.mobaibox.com/PLTV/4/224/3221228559/index.m3u8
 记录2,http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
+记录3,http://ott.mobaibox.com/PLTV/4/224/3221228588/index.m3u8
 健身,http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
 棋牌,http://ott.mobaibox.com/PLTV/4/224/3221228586/index.m3u8
 戏曲,http://ott.mobaibox.com/PLTV/4/224/3221228673/index.m3u8
