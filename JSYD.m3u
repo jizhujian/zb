@@ -953,12 +953,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228246/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8
 #EXTINF:-1 tvg-name="镇江-3" tvg-logo="https://live.fanmingming.cn/tv/镇江-3.png" group-title="江苏",镇江-3
 http://ott.mobaibox.com/PLTV/4/224/3221228208/index.m3u8
-#EXTINF:-1 tvg-name="扬州-1" tvg-logo="https://live.fanmingming.cn/tv/扬州-1.png" group-title="江苏",扬州-1
-http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
-#EXTINF:-1 tvg-name="扬州-2" tvg-logo="https://live.fanmingming.cn/tv/扬州-2.png" group-title="江苏",扬州-2
-http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
-#EXTINF:-1 tvg-name="扬州-3" tvg-logo="https://live.fanmingming.cn/tv/扬州-3.png" group-title="江苏",扬州-3
-http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
 #EXTINF:-1 tvg-name="宝应新闻" tvg-logo="https://live.fanmingming.cn/tv/宝应新闻.png" group-title="江苏",宝应新闻
 http://ott.mobaibox.com/PLTV/4/224/3221228007/index.m3u8
 #EXTINF:-1 tvg-name="江都" tvg-logo="https://live.fanmingming.cn/tv/江都.png" group-title="江苏",江都

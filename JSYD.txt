@@ -495,9 +495,6 @@ NewTV,#genre#
 镇江-2,http://ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8
 镇江-3,http://ott.mobaibox.com/PLTV/4/224/3221228208/index.m3u8
 
-扬州-1,http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
-扬州-2,http://ott.mobaibox.com/PLTV/3/224/3221228205/index.m3u8
-扬州-3,http://ott.mobaibox.com/PLTV/3/224/3221227867/index.m3u8
 宝应新闻,http://ott.mobaibox.com/PLTV/4/224/3221228007/index.m3u8
 江都,http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
 
