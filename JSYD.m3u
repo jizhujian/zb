@@ -27,6 +27,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221225530/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227375/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/4/224/3221228287/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
+http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV2
 http://ott.mobaibox.com/PLTV/4/224/3221228094/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV2
@@ -69,6 +71,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221227650/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视",CCTV3
 http://ott.mobaibox.com/PLTV/4/224/3221227295/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视",CCTV3
+http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV4
 http://ott.mobaibox.com/PLTV/4/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV4
@@ -224,8 +228,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221227720/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视",CCTV11
 http://ott.mobaibox.com/PLTV/4/224/3221227384/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视",CCTV11
-http://ott.mobaibox.com/PLTV/4/224/3221228748/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视",CCTV11
 http://ott.mobaibox.com/PLTV/4/224/3221227524/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视",CCTV12
 http://ott.mobaibox.com/PLTV/4/224/3221227637/index.m3u8
@@ -336,8 +338,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228099/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228735/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://ott.mobaibox.com/PLTV/4/224/3221228747/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227439/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227668/index.m3u8
@@ -368,15 +368,9 @@ http://ott.mobaibox.com/PLTV/4/224/3221227585/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228741/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://ott.mobaibox.com/PLTV/4/224/3221228750/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228861/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://ott.mobaibox.com/PLTV/4/224/3221228738/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228803/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视
@@ -524,8 +518,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228560/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视",河南卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228221/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视",河南卫视
-http://ott.mobaibox.com/PLTV/4/224/3221227521/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视",河南卫视
 http://ott.mobaibox.com/PLTV/4/224/3221225815/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227558/index.m3u8
@@ -657,8 +649,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228752/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视",三沙卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://ott.mobaibox.com/PLTV/4/224/3221228326/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视",山西卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227559/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视",山西卫视
@@ -679,12 +669,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221225836/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228290/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视",新疆卫视
 http://ott.mobaibox.com/PLTV/4/224/3221225844/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视",新疆卫视
-http://ott.mobaibox.com/PLTV/4/224/3221227627/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视",西藏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221226376/index.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视",西藏卫视
-http://ott.mobaibox.com/PLTV/4/224/3221227562/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视",兵团卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227025/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视",兵团卫视
@@ -837,12 +823,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228462/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228448/index.m3u8
 #EXTINF:-1 tvg-name="崇川公共" tvg-logo="https://live.fanmingming.cn/tv/崇川公共.png" group-title="江苏",崇川公共
 http://ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8
-#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://live.fanmingming.cn/tv/南通新闻综合.png" group-title="江苏",南通新闻综合
-http://cm-live.ntjoy.com/live/4f1.m3u8
-#EXTINF:-1 tvg-name="南通-2" tvg-logo="https://live.fanmingming.cn/tv/南通-2.png" group-title="江苏",南通-2
-https://cm-live.ntjoy.com/live/4f3.m3u8
-#EXTINF:-1 tvg-name="崇川公共" tvg-logo="https://live.fanmingming.cn/tv/崇川公共.png" group-title="江苏",崇川公共
-https://cm-live.ntjoy.com/live/4f5.m3u8
 #EXTINF:-1 tvg-name="如东新闻" tvg-logo="https://live.fanmingming.cn/tv/如东新闻.png" group-title="江苏",如东新闻
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.cn/tv/江苏影视.png" group-title="江苏",江苏影视
@@ -923,8 +903,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221225949/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-name="新沂-1" tvg-logo="https://live.fanmingming.cn/tv/新沂-1.png" group-title="江苏",新沂-1
 http://ott.mobaibox.com/PLTV/4/224/3221227289/index.m3u8
-#EXTINF:-1 tvg-name="新沂-2" tvg-logo="https://live.fanmingming.cn/tv/新沂-2.png" group-title="江苏",新沂-2
-http://ott.mobaibox.com/PLTV/4/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-name="铜山-1" tvg-logo="https://live.fanmingming.cn/tv/铜山-1.png" group-title="江苏",铜山-1
 http://ott.mobaibox.com/PLTV/4/224/3221228152/index.m3u8
 #EXTINF:-1 tvg-name="铜山-2" tvg-logo="https://live.fanmingming.cn/tv/铜山-2.png" group-title="江苏",铜山-2
@@ -1000,11 +978,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技-4K" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-4K.png" group-title="4K",睛彩竞技-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV1-4K.png" group-title="4K",CCTV1-4K
-http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV1-4K.png" group-title="4K",CCTV1-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228732/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV3-4K.png" group-title="4K",CCTV3-4K
-http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV5-4K.png" group-title="4K",CCTV5-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16-4K.png" group-title="4K",CCTV16-4K
@@ -1041,8 +1015,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227758/index.m3u8
 #EXTINF:-1 tvg-name="连云港生活" tvg-logo="https://live.fanmingming.cn/tv/连云港生活.png" group-title="不能播放",连云港生活
 http://ott.mobaibox.com/PLTV/4/224/3221227819/index.m3u8
-#EXTINF:-1 tvg-name="贾汪新闻" tvg-logo="https://live.fanmingming.cn/tv/贾汪新闻.png" group-title="不能播放",贾汪新闻
-http://ott.mobaibox.com/PLTV/4/224/3221227385/index.m3u8
 #EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://live.fanmingming.cn/tv/邳州综合.png" group-title="不能播放",邳州综合
 http://ott.mobaibox.com/PLTV/4/224/3221227576/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="不能播放",浙江卫视
@@ -1073,26 +1045,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221225555/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="其他",黑莓电影
 http://ott.mobaibox.com/PLTV/4/224/3221227520/index.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="其他",优漫卡通
-http://ott.mobaibox.com/PLTV/4/224/3221225933/index.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="其他",优漫卡通
-http://ott.mobaibox.com/PLTV/4/224/3221227577/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="其他",金鹰卡通
-http://ott.mobaibox.com/PLTV/4/224/3221227630/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="其他",金鹰卡通
-http://ott.mobaibox.com/PLTV/4/224/3221226303/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="其他",卡酷少儿
-http://ott.mobaibox.com/PLTV/4/224/3221226305/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="其他",卡酷少儿
-http://ott.mobaibox.com/PLTV/4/224/3221227566/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="其他",嘉佳卡通
-http://ott.mobaibox.com/PLTV/4/224/3221227009/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="其他",嘉佳卡通
-http://ott.mobaibox.com/PLTV/4/224/3221227598/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="其他",哈哈炫动
-http://ott.mobaibox.com/PLTV/4/224/3221227586/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="其他",哈哈炫动
-http://ott.mobaibox.com/PLTV/4/224/3221226388/index.m3u8
 #EXTINF:-1 tvg-name="二更" tvg-logo="https://live.fanmingming.cn/tv/二更.png" group-title="其他",二更
 http://ott.mobaibox.com/PLTV/4/224/3221228441/index.m3u8
 #EXTINF:-1 tvg-name="电影" tvg-logo="https://live.fanmingming.cn/tv/电影.png" group-title="其他",电影
