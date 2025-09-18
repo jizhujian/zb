@@ -314,8 +314,20 @@
       "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt",
       "playerType": 2,
       "timeout": 10
+    },
+    {
+      "name": "catvod.com",
+      "type": 0,
+      "url": "https://iptv.catvod.com/tv.m3u",
+      "ua": "catvod.com"
+    },
+    {
+      "name": "catvod.com(备用)",
+      "type": 0,
+      "url": "https://live.catvod.com/tv.m3u",
+      "ua": "catvod.com"
     }
-  ],
+ ],
   "ijk": [
     {
       "group": "软解码",
