@@ -1219,9 +1219,9 @@ http://ott.mobaibox.com/PLTV/4/224/3221228843/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228849/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" group-title="未分类" resolution="1920x1080" ,CCTV-1 综合
 http://ott.mobaibox.com/PLTV/4/224/3221228850/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV中视购物" tvg-logo="" group-title="未分类" resolution="1920x1080" ,CCTV中视购物
+#EXTINF:-1 tvg-id="" tvg-name="PLTV_3221228852" tvg-logo="" group-title="未分类" resolution="1920x1080" ,PLTV_3221228852
 http://ott.mobaibox.com/PLTV/4/224/3221228852/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="央广购物" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/央广购物.png" group-title="未分类" resolution="1920x1080" ,央广购物
+#EXTINF:-1 tvg-id="" tvg-name="PLTV_3221228855" tvg-logo="" group-title="未分类" resolution="1920x1080" ,PLTV_3221228855
 http://ott.mobaibox.com/PLTV/4/224/3221228855/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/江苏/江苏卫视3.png" group-title="未分类" resolution="1920x1080" ,江苏卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228864/index.m3u8
