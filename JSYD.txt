@@ -510,9 +510,9 @@ CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 至臻世界-4K,http://gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 咪视界4K,http://gslbserv.itv.cmvideo.cn/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-4K测试-1,http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
-4K测试-2,http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
-4K测试-3,http://ott.mobaibox.com/PLTV/4/224/3221228740/index.m3u8
+8740,http://ott.mobaibox.com/PLTV/4/224/3221228740/index.m3u8
+8589,http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
+8873,http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
 
 播放异常,#genre#
 
@@ -521,6 +521,7 @@ CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 连云港新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221227758/index.m3u8
 连云港生活,http://ott.mobaibox.com/PLTV/4/224/3221227819/index.m3u8
 邳州综合,http://ott.mobaibox.com/PLTV/4/224/3221227576/index.m3u8
+8815,http://ott.mobaibox.com/PLTV/4/224/3221228815/index.m3u8
 
 其他,#genre#
 
@@ -629,7 +630,6 @@ CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 8808,http://ott.mobaibox.com/PLTV/4/224/3221228808/index.m3u8
 8809,http://ott.mobaibox.com/PLTV/4/224/3221228809/index.m3u8
 8811,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
-8815,http://ott.mobaibox.com/PLTV/4/224/3221228815/index.m3u8
 8823,http://ott.mobaibox.com/PLTV/4/224/3221228823/index.m3u8
 8826,http://ott.mobaibox.com/PLTV/4/224/3221228826/index.m3u8
 8829,http://ott.mobaibox.com/PLTV/4/224/3221228829/index.m3u8
