@@ -117,62 +117,6 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/1.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="其他",金色学堂
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/1.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226138/1.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他",生活时尚
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="其他",哈哈炫动
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/1.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="其他",哈哈炫动
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/1.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV-1
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV-4
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他",卡酷少儿
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他",金鹰卡通
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="其他",五星体育
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="其他",第一财经
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="其他",东方影视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="其他",上海都市
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
-#EXTINF:-1 tvg-name="city都市剧场" tvg-logo="https://live.fanmingming.com/tv/city都市剧场.png" group-title="其他",city都市剧场
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
-#EXTINF:-1 tvg-name="city都市剧场" tvg-logo="https://live.fanmingming.com/tv/city都市剧场.png" group-title="其他",city都市剧场
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png" group-title="其他",欢笑剧场4K
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
-#EXTINF:-1 tvg-name="法制天地" tvg-logo="https://live.fanmingming.com/tv/法制天地.png" group-title="其他",法制天地
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他",乐游
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他",乐游
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/1.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="其他",东方财经
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="其他",新闻综合
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
-#EXTINF:-1 tvg-name="5696" tvg-logo="https://live.fanmingming.com/tv/5696.png" group-title="其他",5696
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/1.m3u8
-#EXTINF:-1 tvg-name="东方购物-1" tvg-logo="https://live.fanmingming.com/tv/东方购物-1.png" group-title="其他",东方购物-1
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226141/1.m3u8
-#EXTINF:-1 tvg-name="东方购物-2" tvg-logo="https://live.fanmingming.com/tv/东方购物-2.png" group-title="其他",东方购物-2
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226142/1.m3u8
-#EXTINF:-1 tvg-name="东方购物-3" tvg-logo="https://live.fanmingming.com/tv/东方购物-3.png" group-title="其他",东方购物-3
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226144/1.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="睛彩",睛彩竞技
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="睛彩",睛彩篮球
@@ -245,6 +189,60 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
 #EXTINF:-1 tvg-name="至臻视界-4K" tvg-logo="https://live.fanmingming.com/tv/至臻视界-4K.png" group-title="4K",至臻视界-4K
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="其他",金色学堂
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/1.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226138/1.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他",生活时尚
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="其他",哈哈炫动
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/1.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="其他",哈哈炫动
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/1.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他",CETV-1
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV-4
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他",卡酷少儿
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="其他",金鹰卡通
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="其他",五星体育
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="其他",第一财经
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="其他",东方影视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="其他",上海都市
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
+#EXTINF:-1 tvg-name="city都市剧场" tvg-logo="https://live.fanmingming.com/tv/city都市剧场.png" group-title="其他",city都市剧场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
+#EXTINF:-1 tvg-name="city都市剧场" tvg-logo="https://live.fanmingming.com/tv/city都市剧场.png" group-title="其他",city都市剧场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png" group-title="其他",欢笑剧场4K
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
+#EXTINF:-1 tvg-name="法制天地" tvg-logo="https://live.fanmingming.com/tv/法制天地.png" group-title="其他",法制天地
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他",乐游
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="其他",乐游
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/1.m3u8
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="其他",东方财经
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="其他",新闻综合
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
+#EXTINF:-1 tvg-name="东方购物-1" tvg-logo="https://live.fanmingming.com/tv/东方购物-1.png" group-title="其他",东方购物-1
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226141/1.m3u8
+#EXTINF:-1 tvg-name="东方购物-2" tvg-logo="https://live.fanmingming.com/tv/东方购物-2.png" group-title="其他",东方购物-2
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226142/1.m3u8
+#EXTINF:-1 tvg-name="东方购物-3" tvg-logo="https://live.fanmingming.com/tv/东方购物-3.png" group-title="其他",东方购物-3
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226144/1.m3u8
 #EXTINF:-1 tvg-name="BesTV-1" tvg-logo="https://live.fanmingming.com/tv/BesTV-1.png" group-title="BesTV",BesTV-1
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8
 #EXTINF:-1 tvg-name="BesTV-2" tvg-logo="https://live.fanmingming.com/tv/BesTV-2.png" group-title="BesTV",BesTV-2
