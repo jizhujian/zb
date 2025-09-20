@@ -316,6 +316,13 @@
       "timeout": 10
     },
     {
+      "name": "上海移动ipv6",
+      "type": 0,
+      "url": "https://gitee.com/jizhujian/zb/raw/master/SHYDipv6.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
       "name": "catvod.com",
       "type": 0,
       "url": "https://iptv.catvod.com/tv.m3u",
