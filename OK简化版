@@ -311,16 +311,12 @@
     {
       "name": "江苏移动",
       "type": 0,
-      "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt",
-      "playerType": 2,
-      "timeout": 10
+      "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt"
     },
     {
       "name": "上海移动ipv6",
       "type": 0,
-      "url": "https://gitee.com/jizhujian/zb/raw/master/SHYDipv6.txt",
-      "playerType": 2,
-      "timeout": 10
+      "url": "https://gitee.com/jizhujian/zb/raw/master/SHYDipv6.txt"
     },
     {
       "name": "catvod.com",
