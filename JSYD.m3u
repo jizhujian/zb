@@ -1065,10 +1065,10 @@ http://ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227520/index.m3u8
 #EXTINF:-1 tvg-name="电影-8685" tvg-logo="https://live.fanmingming.com/tv/电影-8685.png" group-title="其他",电影-8685
 http://ott.mobaibox.com/PLTV/4/224/3221228685/index.m3u8
-#EXTINF:-1 tvg-name="电影-8740" tvg-logo="https://live.fanmingming.com/tv/电影-8740.png" group-title="其他",电影-8740
-http://ott.mobaibox.com/PLTV/4/224/3221228740/index.m3u8
 #EXTINF:-1 tvg-name="电影-8714" tvg-logo="https://live.fanmingming.com/tv/电影-8714.png" group-title="其他",电影-8714
 http://ott.mobaibox.com/PLTV/4/224/3221228714/index.m3u8
+#EXTINF:-1 tvg-name="电影-8740" tvg-logo="https://live.fanmingming.com/tv/电影-8740.png" group-title="其他",电影-8740
+http://ott.mobaibox.com/PLTV/4/224/3221228740/index.m3u8
 #EXTINF:-1 tvg-name="电视剧-7579" tvg-logo="https://live.fanmingming.com/tv/电视剧-7579.png" group-title="其他",电视剧-7579
 http://ott.mobaibox.com/PLTV/4/224/3221227579/index.m3u8
 #EXTINF:-1 tvg-name="电视剧-8132" tvg-logo="https://live.fanmingming.com/tv/电视剧-8132.png" group-title="其他",电视剧-8132
@@ -1187,8 +1187,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228586/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228808/index.m3u8
 #EXTINF:-1 tvg-name="戏曲-8673" tvg-logo="https://live.fanmingming.com/tv/戏曲-8673.png" group-title="其他",戏曲-8673
 http://ott.mobaibox.com/PLTV/4/224/3221228673/index.m3u8
-#EXTINF:-1 tvg-name="戏曲-8843" tvg-logo="https://live.fanmingming.com/tv/戏曲-8843.png" group-title="其他",戏曲-8843
-http://ott.mobaibox.com/PLTV/4/224/3221228843/index.m3u8
 #EXTINF:-1 tvg-name="美妆-8703" tvg-logo="https://live.fanmingming.com/tv/美妆-8703.png" group-title="其他",美妆-8703
 http://ott.mobaibox.com/PLTV/4/224/3221228703/index.m3u8
 #EXTINF:-1 tvg-name="农业致富-8720" tvg-logo="https://live.fanmingming.com/tv/农业致富-8720.png" group-title="其他",农业致富-8720
@@ -1235,6 +1233,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227905/index.m3u8
 #EXTINF:-1 tvg-name="8637" tvg-logo="https://live.fanmingming.com/tv/8637.png" group-title="其他",8637
 http://ott.mobaibox.com/PLTV/4/224/3221228637/index.m3u8
+#EXTINF:-1 tvg-name="8843" tvg-logo="https://live.fanmingming.com/tv/8843.png" group-title="其他",8843
+http://ott.mobaibox.com/PLTV/4/224/3221228843/index.m3u8
 #EXTINF:-1 tvg-name="南京长江大桥直播" tvg-logo="https://live.fanmingming.com/tv/南京长江大桥直播.png" group-title="其他",南京长江大桥直播
 http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
 #EXTINF:-1 tvg-name="南京夹江大桥直播" tvg-logo="https://live.fanmingming.com/tv/南京夹江大桥直播.png" group-title="其他",南京夹江大桥直播

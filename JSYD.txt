@@ -572,8 +572,8 @@ NewTV,#genre#
 黑莓电影,http://ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
 黑莓电影,http://ott.mobaibox.com/PLTV/4/224/3221227520/index.m3u8
 电影-8685,http://ott.mobaibox.com/PLTV/4/224/3221228685/index.m3u8
-电影-8740,http://ott.mobaibox.com/PLTV/4/224/3221228740/index.m3u8
 电影-8714,http://ott.mobaibox.com/PLTV/4/224/3221228714/index.m3u8
+电影-8740,http://ott.mobaibox.com/PLTV/4/224/3221228740/index.m3u8
 
 电视剧-7579,http://ott.mobaibox.com/PLTV/4/224/3221227579/index.m3u8
 电视剧-8132,http://ott.mobaibox.com/PLTV/4/224/3221228132/index.m3u8
@@ -637,7 +637,6 @@ NewTV,#genre#
 棋牌-8808,http://ott.mobaibox.com/PLTV/4/224/3221228808/index.m3u8
 
 戏曲-8673,http://ott.mobaibox.com/PLTV/4/224/3221228673/index.m3u8
-戏曲-8843,http://ott.mobaibox.com/PLTV/4/224/3221228843/index.m3u8
 
 美妆-8703,http://ott.mobaibox.com/PLTV/4/224/3221228703/index.m3u8
 农业致富-8720,http://ott.mobaibox.com/PLTV/4/224/3221228720/index.m3u8
@@ -665,6 +664,8 @@ NewTV,#genre#
 7786,http://ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8
 7905,http://ott.mobaibox.com/PLTV/4/224/3221227905/index.m3u8
 8637,http://ott.mobaibox.com/PLTV/4/224/3221228637/index.m3u8
+
+8843,http://ott.mobaibox.com/PLTV/4/224/3221228843/index.m3u8
 
 南京长江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
 南京夹江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228709/index.m3u8
