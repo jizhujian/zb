@@ -14,6 +14,8 @@ CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228146/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228213/index.m3u8
 CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228287/index.m3u8
+CCTV1-4K,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
+CCTV1-4K,http://ott.mobaibox.com/PLTV/4/224/3221228732/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/4/224/3221226993/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/4/224/3221227207/index.m3u8
 CCTV2,http://ott.mobaibox.com/PLTV/4/224/3221227427/index.m3u8
@@ -35,6 +37,7 @@ CCTV3,http://ott.mobaibox.com/PLTV/4/224/3221228126/index.m3u8
 CCTV3,http://ott.mobaibox.com/PLTV/4/224/3221228188/index.m3u8
 CCTV3,http://ott.mobaibox.com/PLTV/4/224/3221228237/index.m3u8
 CCTV3,http://ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
+CCTV3-4K,http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV4,http://ott.mobaibox.com/PLTV/4/224/3221225534/index.m3u8
 CCTV4,http://ott.mobaibox.com/PLTV/4/224/3221227378/index.m3u8
 CCTV4,http://ott.mobaibox.com/PLTV/4/224/3221227489/index.m3u8
@@ -56,6 +59,7 @@ CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228082/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228173/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228179/index.m3u8
 CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221228395/index.m3u8
+CCTV5-4K,http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/4/224/3221225604/index.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/4/224/3221227381/index.m3u8
 CCTV5+,http://ott.mobaibox.com/PLTV/4/224/3221227480/index.m3u8
@@ -140,12 +144,17 @@ CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228144/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228320/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/4/224/3221228625/index.m3u8
+CCTV16-4K,http://ott.mobaibox.com/PLTV/4/224/3221228168/index.m3u8
+CCTV16-4K,http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
 CCTV17,http://ott.mobaibox.com/PLTV/4/224/3221227578/index.m3u8
 CCTV17,http://ott.mobaibox.com/PLTV/4/224/3221227589/index.m3u8
 CCTV17,http://ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
 CCTV17,http://ott.mobaibox.com/PLTV/4/224/3221227726/index.m3u8
 CCTV17,http://ott.mobaibox.com/PLTV/4/224/3221228628/index.m3u8
 CCTV17,http://ott.mobaibox.com/PLTV/4/224/3221228642/index.m3u8
+CCTV4K,http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
+CCTV4K,http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
+CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/4/224/3221228138/index.m3u8
 CCTV央视台球,http://ott.mobaibox.com/PLTV/4/224/3221228683/index.m3u8
 CCTV风云音乐,http://ott.mobaibox.com/PLTV/4/224/3221228665/index.m3u8
@@ -185,6 +194,7 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221228764/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221228767/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221228770/index.m3u8
+江苏卫视-4K,http://ott.mobaibox.com/PLTV/4/224/3221228861/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/4/224/3221227246/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/4/224/3221227390/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/4/224/3221227436/index.m3u8
@@ -193,6 +203,8 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/4/224/3221227694/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/4/224/3221228115/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/4/224/3221228410/index.m3u8
+北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8
+北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227220/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227320/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227404/index.m3u8
@@ -229,6 +241,7 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 广东卫视,http://ott.mobaibox.com/PLTV/4/224/3221228230/index.m3u8
 广东卫视,http://ott.mobaibox.com/PLTV/4/224/3221228312/index.m3u8
 广东卫视,http://ott.mobaibox.com/PLTV/4/224/3221228566/index.m3u8
+广东卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
 天津卫视,http://ott.mobaibox.com/PLTV/4/224/3221227212/index.m3u8
 天津卫视,http://ott.mobaibox.com/PLTV/4/224/3221227382/index.m3u8
 天津卫视,http://ott.mobaibox.com/PLTV/4/224/3221227407/index.m3u8
@@ -247,6 +260,7 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 深圳卫视,http://ott.mobaibox.com/PLTV/4/224/3221227695/index.m3u8
 深圳卫视,http://ott.mobaibox.com/PLTV/4/224/3221228236/index.m3u8
 深圳卫视,http://ott.mobaibox.com/PLTV/4/224/3221228569/index.m3u8
+深圳卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
 山东卫视,http://ott.mobaibox.com/PLTV/4/224/3221227258/index.m3u8
 山东卫视,http://ott.mobaibox.com/PLTV/4/224/3221227310/index.m3u8
 山东卫视,http://ott.mobaibox.com/PLTV/4/224/3221227448/index.m3u8
@@ -345,7 +359,9 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 睛彩青少,http://ott.mobaibox.com/PLTV/4/224/3221228729/index.m3u8
 睛彩篮球,http://ott.mobaibox.com/PLTV/4/224/3221228129/index.m3u8
 睛彩篮球,http://ott.mobaibox.com/PLTV/4/224/3221228234/index.m3u8
+睛彩篮球-4K,http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 睛彩竞技,http://ott.mobaibox.com/PLTV/4/224/3221228206/index.m3u8
+睛彩竞技-4K,http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
 睛彩广场舞,http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 睛彩广场舞,http://ott.mobaibox.com/PLTV/4/224/3221228818/index.m3u8
 
@@ -384,6 +400,8 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 咪视界-31,http://gslbserv.itv.cmvideo.cn/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
 咪视界-32,http://gslbserv.itv.cmvideo.cn/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
 咪视界-33,http://gslbserv.itv.cmvideo.cn/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+咪视界4K,http://gslbserv.itv.cmvideo.cn/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+至臻世界-4K,http://gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 苏超电视墙-7896,http://ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 苏超-8735,http://ott.mobaibox.com/PLTV/4/224/3221228735/index.m3u8
 苏超-8738,http://ott.mobaibox.com/PLTV/4/224/3221228738/index.m3u8
@@ -392,32 +410,6 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 苏超-8750,http://ott.mobaibox.com/PLTV/4/224/3221228750/index.m3u8
 苏超-8803,http://ott.mobaibox.com/PLTV/4/224/3221228803/index.m3u8
 咪咕视频,http://ott.mobaibox.com/PLTV/4/224/3221228193/index.m3u8
-
-4K,#genre#
-
-睛彩篮球-4K,http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
-睛彩竞技-4K,http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
-CCTV1-4K,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
-CCTV1-4K,http://ott.mobaibox.com/PLTV/4/224/3221228732/index.m3u8
-CCTV3-4K,http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV5-4K,http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV16-4K,http://ott.mobaibox.com/PLTV/4/224/3221228168/index.m3u8
-CCTV16-4K,http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
-CCTV4K,http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
-CCTV4K,http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
-CCTV8K,http://ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-江苏卫视-4K,http://ott.mobaibox.com/PLTV/4/224/3221228861/index.m3u8
-广东卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
-深圳卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
-北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228817/index.m3u8
-北京卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
-4KUHD-1,http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
-4KUHD-2,http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-4K修复,http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-至臻世界-4K,http://gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-咪视界4K,http://gslbserv.itv.cmvideo.cn/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-4K演示-8589,http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 
 NewTV,#genre#
 
@@ -473,6 +465,7 @@ NewTV,#genre#
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 无锡新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221228103/index.m3u8
 无锡新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221228853/index.m3u8
@@ -568,6 +561,11 @@ NewTV,#genre#
 健身-8454,http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
 健身-8635,http://ott.mobaibox.com/PLTV/4/224/3221228635/index.m3u8
 健身-8706,http://ott.mobaibox.com/PLTV/4/224/3221228706/index.m3u8
+
+4KUHD-1,http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+4KUHD-2,http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+4K修复,http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
+4K演示-8589,http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 
 黑莓电影,http://ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
 黑莓电影,http://ott.mobaibox.com/PLTV/4/224/3221227520/index.m3u8

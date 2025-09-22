@@ -185,9 +185,9 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/1.m3u8
 #EXTINF:-1 tvg-name="咪视界-31" tvg-logo="https://live.fanmingming.com/tv/咪视界-31.png" group-title="咪咕",咪视界-31
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
-#EXTINF:-1 tvg-name="咪视界4K" tvg-logo="https://live.fanmingming.com/tv/咪视界4K.png" group-title="4K",咪视界4K
+#EXTINF:-1 tvg-name="咪视界4K" tvg-logo="https://live.fanmingming.com/tv/咪视界4K.png" group-title="咪咕",咪视界4K
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
-#EXTINF:-1 tvg-name="至臻视界-4K" tvg-logo="https://live.fanmingming.com/tv/至臻视界-4K.png" group-title="4K",至臻视界-4K
+#EXTINF:-1 tvg-name="至臻视界-4K" tvg-logo="https://live.fanmingming.com/tv/至臻视界-4K.png" group-title="咪咕",至臻视界-4K
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="其他",金色学堂
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
