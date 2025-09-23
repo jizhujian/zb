@@ -717,9 +717,9 @@ http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228818/index.m3u8
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕",咪咕体育
 http://ott.mobaibox.com/PLTV/4/224/3221228713/index.m3u8
-#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐.png" group-title="咪咕",咪咕音乐
+#EXTINF:-1 tvg-name="咪咕音乐-1" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐-1.png",咪咕音乐-1
 http://ott.mobaibox.com/PLTV/4/224/3221228444/index.m3u8
-#EXTINF:-1 tvg-name="咪咕音乐" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐.png" group-title="咪咕",咪咕音乐
+#EXTINF:-1 tvg-name="咪咕音乐-2" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐-2.png",咪咕音乐-2
 http://ott.mobaibox.com/PLTV/4/224/3221228794/index.m3u8
 #EXTINF:-1 tvg-name="咪视界-1" tvg-logo="https://live.fanmingming.com/tv/咪视界-1.png" group-title="咪咕",咪视界-1
 http://gslbserv.itv.cmvideo.cn/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
