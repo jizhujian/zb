@@ -542,7 +542,6 @@ NewTV,#genre#
 音乐-8815,http://ott.mobaibox.com/PLTV/4/224/3221228815/index.m3u8
 音乐-8592,http://ott.mobaibox.com/PLTV/4/224/3221228592/index.m3u8
 音乐-8641,http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
-音乐-8591,http://ott.mobaibox.com/PLTV/4/224/3221228591/index.m3u8
 
 黑莓动画,http://ott.mobaibox.com/PLTV/4/224/3221225555/index.m3u8
 动画-8456,http://ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
@@ -663,6 +662,7 @@ NewTV,#genre#
 7905,http://ott.mobaibox.com/PLTV/4/224/3221227905/index.m3u8
 8637,http://ott.mobaibox.com/PLTV/4/224/3221228637/index.m3u8
 
+8591,http://ott.mobaibox.com/PLTV/4/224/3221228591/index.m3u8
 8843,http://ott.mobaibox.com/PLTV/4/224/3221228843/index.m3u8
 
 南京长江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
