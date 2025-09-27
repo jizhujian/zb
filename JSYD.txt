@@ -484,6 +484,7 @@ NewTV,#genre#
 盐城-3,http://ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
 大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+东台-1,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
 
 徐州-1,http://ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
 徐州-2,http://ott.mobaibox.com/PLTV/4/224/3221225947/index.m3u8
@@ -498,7 +499,6 @@ NewTV,#genre#
 沛县经济,http://ott.mobaibox.com/PLTV/4/224/3221227611/index.m3u8
 沛县文艺,http://ott.mobaibox.com/PLTV/4/224/3221227681/index.m3u8
 睢宁综合,http://ott.mobaibox.com/PLTV/4/224/3221227706/index.m3u8
-睢宁综合,http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 睢宁三农,http://ott.mobaibox.com/PLTV/4/224/3221227709/index.m3u8
 睢宁资讯,http://ott.mobaibox.com/PLTV/4/224/3221227712/index.m3u8
 邳州综合,http://ott.mobaibox.com/PLTV/4/224/3221227576/index.m3u8
@@ -509,6 +509,7 @@ NewTV,#genre#
 
 宝应新闻,http://ott.mobaibox.com/PLTV/4/224/3221228007/index.m3u8
 江都,http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
+高邮-1,https://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 
 泰州-1,http://ott.mobaibox.com/PLTV/4/224/3221228209/index.m3u8
 泰州-2,http://ott.mobaibox.com/PLTV/4/224/3221228212/index.m3u8
@@ -653,9 +654,10 @@ NewTV,#genre#
 8867,http://ott.mobaibox.com/PLTV/4/224/3221228867/index.m3u8
 8902,http://ott.mobaibox.com/PLTV/4/224/3221228902/index.m3u8
 8905,http://ott.mobaibox.com/PLTV/4/224/3221228905/index.m3u8
-8744,http://ott.mobaibox.com/PLTV/4/224/3221228744/index.m3u8
 8908,http://ott.mobaibox.com/PLTV/4/224/3221228908/index.m3u8
+
 8039,http://ott.mobaibox.com/PLTV/4/224/3221228039/index.m3u8
+8744,http://ott.mobaibox.com/PLTV/4/224/3221228744/index.m3u8
 
 7730,http://ott.mobaibox.com/PLTV/4/224/3221227730/index.m3u8
 7786,http://ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8
