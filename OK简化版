@@ -1,5 +1,5 @@
 {
-  "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/5EE1360_773_okpng_20250919184254519newMediaFile.png;md5;4675eeed7adff0f35976ab076da9f1de",
+  "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/40EA101_773_okpng_20250927223851779newMediaFile.png;md5;c0b5f9f31461955c4fe98bf00e1caf69",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -12,18 +12,14 @@
       "changeable": 1
     },
     {
-      "key": "荐片弹幕版",
-      "name": "⚔️荐片┃手机",
+      "key": "盘他",
+      "name": "🎸盘他┃4K",
       "type": 3,
-      "api": "csp_JianpianGuard",
-      "searchable": 1,
-      "changeable": 0,
+      "api": "csp_PantaGuard",
       "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "timeout": 25
     },
     {
       "key": "瓜子",
@@ -35,6 +31,20 @@
       "filterable": 1,
       "ext": {
         "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "热播弹幕版",
+      "name": "📺热播┃弹幕",
+      "type": 3,
+      "api": "csp_TianTianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "site": 0
       },
       "timeout": 10
     },
@@ -61,30 +71,6 @@
       "filterable": 1,
       "ext": {
         "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "盘他",
-      "name": "🎸盘他┃4K",
-      "type": 3,
-      "api": "csp_PantaGuard",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
-    {
-      "key": "热播弹幕版",
-      "name": "📺热播┃弹幕",
-      "type": 3,
-      "api": "csp_TianTianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "site": 0
       },
       "timeout": 10
     },
@@ -161,6 +147,20 @@
       "api": "csp_HanXiaoQuanGuard",
       "playerType": 2,
       "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "荐片弹幕版",
+      "name": "⚔️荐片┃手机",
+      "type": 3,
+      "api": "csp_JianpianGuard",
+      "searchable": 1,
+      "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
