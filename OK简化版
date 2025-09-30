@@ -322,11 +322,6 @@
       "name": "develop202",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
-    },
-    {
-      "name": "ok",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt"
     }
   ],
   "ijk": [
