@@ -171,6 +171,37 @@ CETV早期教育,http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
 CETV1,http://ott.mobaibox.com/PLTV/4/224/3221225909/index.m3u8
 CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 
+央视v6,#genre#
+
+CCTV-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/1.m3u8
+CCTV-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/1.m3u8
+CCTV-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225770/1.m3u8
+CCTV-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8
+CCTV-2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/1.m3u8
+CCTV-3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/1.m3u8
+CCTV-3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226165/1.m3u8
+CCTV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/1.m3u8
+CCTV-5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225734/1.m3u8
+CCTV-5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/1.m3u8
+CCTV-6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225741/1.m3u8
+CCTV-6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226148/1.m3u8
+CCTV-7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225701/1.m3u8
+CCTV-7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226137/1.m3u8
+CCTV-7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226143/1.m3u8
+CCTV-8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225736/1.m3u8
+CCTV-8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/1.m3u8
+CCTV-10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225743/1.m3u8
+CCTV-10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/1.m3u8
+CCTV-11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226101/1.m3u8
+CCTV-11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226145/1.m3u8
+CCTV-12,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226103/1.m3u8
+CCTV-12,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226126/1.m3u8
+CCTV-13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/1.m3u8
+CCTV-14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225738/1.m3u8
+CCTV-14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/1.m3u8
+CCTV-15,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/1.m3u8
+CCTV-16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8
+
 卫视,#genre#
 
 凤凰中文,http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
@@ -258,6 +289,7 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 广东卫视,http://ott.mobaibox.com/PLTV/4/224/3221228312/index.m3u8
 广东卫视,http://ott.mobaibox.com/PLTV/4/224/3221228566/index.m3u8
 广东卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 广西卫视,http://ott.mobaibox.com/PLTV/4/224/3221225806/index.m3u8
 广西卫视,http://ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8
 贵州卫视,http://ott.mobaibox.com/PLTV/4/224/3221227551/index.m3u8
@@ -268,6 +300,7 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 河北卫视,http://ott.mobaibox.com/PLTV/4/224/3221227545/index.m3u8
 河北卫视,http://ott.mobaibox.com/PLTV/4/224/3221228106/index.m3u8
 河北卫视,http://ott.mobaibox.com/PLTV/4/224/3221228752/index.m3u8
+河北4K,http://event.pull.hebtv.com/live/live101.m3u8
 河南卫视,http://ott.mobaibox.com/PLTV/4/224/3221228221/index.m3u8
 黑龙江卫视,http://ott.mobaibox.com/PLTV/4/224/3221227252/index.m3u8
 黑龙江卫视,http://ott.mobaibox.com/PLTV/4/224/3221227323/index.m3u8
@@ -354,6 +387,40 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/4/224/3221228651/index.m3u8
 
+卫视v6,#genre#
+
+江苏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/1.m3u8
+黑龙江卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225722/1.m3u8
+北京卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/1.m3u8
+东方卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/1.m3u8
+东方卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226106/1.m3u8
+湖南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/1.m3u8
+浙江卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225727/1.m3u8
+深圳卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225728/1.m3u8
+湖北卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225729/1.m3u8
+广东卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225731/1.m3u8
+山东卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225733/1.m3u8
+安徽卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225739/1.m3u8
+江西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225740/1.m3u8
+天津卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/1.m3u8
+东南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225745/1.m3u8
+辽宁卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/1.m3u8
+吉林卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226082/1.m3u8
+吉林卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226149/1.m3u8
+广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226084/1.m3u8
+广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8
+甘肃卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226090/1.m3u8
+青海卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/1.m3u8
+河北卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226107/1.m3u8
+云南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226109/1.m3u8
+云南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226151/1.m3u8
+山西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8
+河南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226132/1.m3u8
+四川卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226152/1.m3u8
+海南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/1.m3u8
+重庆卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/1.m3u8
+贵州卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/1.m3u8
+
 睛彩,#genre#
 
 睛彩青少,http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
@@ -365,6 +432,12 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 睛彩竞技-4K,http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
 睛彩广场舞,http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 睛彩广场舞,http://ott.mobaibox.com/PLTV/4/224/3221228818/index.m3u8
+
+睛彩v6,#genre#
+
+睛彩竞技,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
+睛彩篮球,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
+睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
 
 咪咕,#genre#
 
@@ -418,6 +491,42 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 苏超-8908,http://ott.mobaibox.com/PLTV/4/224/3221228908/index.m3u8
 咪咕视频,http://ott.mobaibox.com/PLTV/4/224/3221228193/index.m3u8
 
+咪咕v6,#genre#
+
+咪视界-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225636/1.m3u8
+咪视界-2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225637/1.m3u8
+咪视界-3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225638/1.m3u8
+咪视界-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225639/1.m3u8
+咪视界-5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225640/1.m3u8
+咪视界-6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225641/1.m3u8
+咪视界-7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225643/1.m3u8
+咪视界-8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225644/1.m3u8
+咪视界-9,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225646/1.m3u8
+咪视界-10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225657/1.m3u8
+咪视界-11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225674/1.m3u8
+咪视界-12,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225676/1.m3u8
+咪视界-13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225678/1.m3u8
+咪视界-14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225679/1.m3u8
+咪视界-15,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225680/1.m3u8
+咪视界-16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225681/1.m3u8
+咪视界-17,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225682/1.m3u8
+咪视界-18,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225683/1.m3u8
+咪视界-19,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225684/1.m3u8
+咪视界-20,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225685/1.m3u8
+咪视界-21,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225686/1.m3u8
+咪视界-22,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225688/1.m3u8
+咪视界-23,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225689/1.m3u8
+咪视界-24,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225690/1.m3u8
+咪视界-25,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225692/1.m3u8
+咪视界-26,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225693/1.m3u8
+咪视界-27,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225694/1.m3u8
+咪视界-28,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225695/1.m3u8
+咪视界-29,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/1.m3u8
+咪视界-30,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/1.m3u8
+咪视界-31,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
+咪视界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
+至臻视界-4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
+
 NewTV,#genre#
 
 中国功夫,http://ott.mobaibox.com/PLTV/4/224/3221227530/index.m3u8
@@ -467,12 +576,12 @@ NewTV,#genre#
 南京少儿,http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
 
 昆山新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221228820/index.m3u8
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+苏州新闻综合,http://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+苏州社会经济,http://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+苏州文化生活,http://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影娱乐,http://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+苏州生活资讯,http://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+苏州4K,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 无锡新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221228103/index.m3u8
 无锡新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221228853/index.m3u8
@@ -516,7 +625,7 @@ NewTV,#genre#
 
 宝应新闻,http://ott.mobaibox.com/PLTV/4/224/3221228007/index.m3u8
 江都,http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8
-高邮-1,https://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+高邮-1,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 
 泰州-1,http://ott.mobaibox.com/PLTV/4/224/3221228209/index.m3u8
 泰州-2,http://ott.mobaibox.com/PLTV/4/224/3221228212/index.m3u8
@@ -539,9 +648,9 @@ NewTV,#genre#
 宿迁公共,http://ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
 宿迁综合,http://ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8
 沭阳综合,http://ott.mobaibox.com/PLTV/4/224/3221228812/index.m3u8
-沭阳综合,https://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-泗阳综合,https://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
-宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+宿豫综合,http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 
 其他,#genre#
 
@@ -656,6 +765,14 @@ NewTV,#genre#
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
+内蒙古农牧,http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+
 8039,http://ott.mobaibox.com/PLTV/4/224/3221228039/index.m3u8
 8744,http://ott.mobaibox.com/PLTV/4/224/3221228744/index.m3u8
 
@@ -669,6 +786,49 @@ NewTV,#genre#
 
 南京长江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
 南京夹江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228709/index.m3u8
+
+其他v6,#genre#
+
+金色学堂,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
+动漫秀场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/1.m3u8
+动漫秀场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226138/1.m3u8
+生活时尚,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
+哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/1.m3u8
+哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/1.m3u8
+CETV-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
+CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
+卡酷少儿,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
+金鹰卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8
+五星体育,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
+第一财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
+东方影视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
+上海都市,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
+city都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
+city都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
+欢笑剧场4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
+法制天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
+乐游,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
+乐游,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
+游戏风云,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
+游戏风云,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/1.m3u8
+东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
+新闻综合,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
+东方购物-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226141/1.m3u8
+东方购物-2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226142/1.m3u8
+东方购物-3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226144/1.m3u8
+
+BesTVv6,#genre#
+
+BesTV-1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8
+BesTV-2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8
+BesTV-3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/1.m3u8
+BesTV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8
+BesTV-5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8
+BesTV-6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/1.m3u8
+BesTV-7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8
+BesTV-8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8
+BesTV-9,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
+BesTV-10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 
 购物,#genre#
 
