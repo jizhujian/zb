@@ -195,6 +195,7 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221228767/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221228770/index.m3u8
 江苏卫视-4K,http://ott.mobaibox.com/PLTV/4/224/3221228861/index.m3u8
+江苏卫视4K,http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227220/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227320/index.m3u8
 湖南卫视,http://ott.mobaibox.com/PLTV/4/224/3221227404/index.m3u8
@@ -409,6 +410,12 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 苏超-8747,http://ott.mobaibox.com/PLTV/4/224/3221228747/index.m3u8
 苏超-8750,http://ott.mobaibox.com/PLTV/4/224/3221228750/index.m3u8
 苏超-8803,http://ott.mobaibox.com/PLTV/4/224/3221228803/index.m3u8
+苏超-8850,http://ott.mobaibox.com/PLTV/4/224/3221228850/index.m3u8
+苏超-8864,http://ott.mobaibox.com/PLTV/4/224/3221228864/index.m3u8
+苏超-8867,http://ott.mobaibox.com/PLTV/4/224/3221228867/index.m3u8
+苏超-8902,http://ott.mobaibox.com/PLTV/4/224/3221228902/index.m3u8
+苏超-8905,http://ott.mobaibox.com/PLTV/4/224/3221228905/index.m3u8
+苏超-8908,http://ott.mobaibox.com/PLTV/4/224/3221228908/index.m3u8
 咪咕视频,http://ott.mobaibox.com/PLTV/4/224/3221228193/index.m3u8
 
 NewTV,#genre#
@@ -591,7 +598,7 @@ NewTV,#genre#
 电视剧-8627,http://ott.mobaibox.com/PLTV/4/224/3221228627/index.m3u8
 电视剧-8644,http://ott.mobaibox.com/PLTV/4/224/3221228644/index.m3u8
 电视剧-8663,http://ott.mobaibox.com/PLTV/4/224/3221228663/index.m3u8
-电视剧-8664,http://ott.mobaibox.com/PLTV/3/224/3221228664/index.m3u8
+电视剧-8664,http://ott.mobaibox.com/PLTV/4/224/3221228664/index.m3u8
 电视剧-8666,http://ott.mobaibox.com/PLTV/4/224/3221228666/index.m3u8
 电视剧-8669,http://ott.mobaibox.com/PLTV/4/224/3221228669/index.m3u8
 电视剧-8676,http://ott.mobaibox.com/PLTV/4/224/3221228676/index.m3u8
@@ -603,7 +610,7 @@ NewTV,#genre#
 电视剧-8699,http://ott.mobaibox.com/PLTV/4/224/3221228699/index.m3u8
 电视剧-8702,http://ott.mobaibox.com/PLTV/4/224/3221228702/index.m3u8
 电视剧-8705,http://ott.mobaibox.com/PLTV/4/224/3221228705/index.m3u8
-电视剧-8708,http://ott.mobaibox.com/PLTV/3/224/3221228708/index.m3u8
+电视剧-8708,http://ott.mobaibox.com/PLTV/4/224/3221228708/index.m3u8
 电视剧-8710,http://ott.mobaibox.com/PLTV/4/224/3221228710/index.m3u8
 电视剧-8711,http://ott.mobaibox.com/PLTV/4/224/3221228711/index.m3u8
 电视剧-8716,http://ott.mobaibox.com/PLTV/4/224/3221228716/index.m3u8
@@ -648,13 +655,6 @@ NewTV,#genre#
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-
-8850,http://ott.mobaibox.com/PLTV/4/224/3221228850/index.m3u8
-8864,http://ott.mobaibox.com/PLTV/4/224/3221228864/index.m3u8
-8867,http://ott.mobaibox.com/PLTV/4/224/3221228867/index.m3u8
-8902,http://ott.mobaibox.com/PLTV/4/224/3221228902/index.m3u8
-8905,http://ott.mobaibox.com/PLTV/4/224/3221228905/index.m3u8
-8908,http://ott.mobaibox.com/PLTV/4/224/3221228908/index.m3u8
 
 8039,http://ott.mobaibox.com/PLTV/4/224/3221228039/index.m3u8
 8744,http://ott.mobaibox.com/PLTV/4/224/3221228744/index.m3u8
