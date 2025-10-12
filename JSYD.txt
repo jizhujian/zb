@@ -788,6 +788,10 @@ NewTV,#genre#
 
 南京长江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
 南京夹江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228709/index.m3u8
+南京新街口直播,http://ott.mobaibox.com/PLTV/4/224/3221228712/index.m3u8
+南京南站直播,http://ott.mobaibox.com/PLTV/4/224/3221228715/index.m3u8
+南京音乐台直播,http://ott.mobaibox.com/PLTV/4/224/3221228753/index.m3u8
+南京北级阁直播,http://ott.mobaibox.com/PLTV/4/224/3221228806/index.m3u8
 
 其他v6,#genre#
 
