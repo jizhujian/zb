@@ -444,8 +444,8 @@ CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 咪咕,#genre#
 
 咪咕体育,http://ott.mobaibox.com/PLTV/4/224/3221228713/index.m3u8
-咪咕音乐-1,http://ott.mobaibox.com/PLTV/4/224/3221228444/index.m3u8
-咪咕音乐-2,http://ott.mobaibox.com/PLTV/4/224/3221228794/index.m3u8
+抖音热歌,http://ott.mobaibox.com/PLTV/4/224/3221228444/index.m3u8
+流行音乐,http://ott.mobaibox.com/PLTV/4/224/3221228794/index.m3u8
 咪视界-1,http://gslbserv.itv.cmvideo.cn/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 咪视界-2,http://gslbserv.itv.cmvideo.cn/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
 咪视界-3,http://gslbserv.itv.cmvideo.cn/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
@@ -531,26 +531,27 @@ CETV-4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
 
 NewTV,#genre#
 
-中国功夫,http://ott.mobaibox.com/PLTV/4/224/3221227530/index.m3u8
-潮妈辣婆,http://ott.mobaibox.com/PLTV/4/224/3221227527/index.m3u8
-惊悚悬疑,http://ott.mobaibox.com/PLTV/4/224/3221227536/index.m3u8
+哒啵赛事,http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
 炫舞未来,http://ott.mobaibox.com/PLTV/4/224/3221227475/index.m3u8
+热播精选,http://ott.mobaibox.com/PLTV/4/224/3221227512/index.m3u8
+潮妈辣婆,http://ott.mobaibox.com/PLTV/4/224/3221227527/index.m3u8
+中国功夫,http://ott.mobaibox.com/PLTV/4/224/3221227530/index.m3u8
+惊悚悬疑,http://ott.mobaibox.com/PLTV/4/224/3221227536/index.m3u8
+海外剧场,http://ott.mobaibox.com/PLTV/4/224/3221227539/index.m3u8
 金牌综艺,http://ott.mobaibox.com/PLTV/4/224/3221227541/index.m3u8
 古装剧场,http://ott.mobaibox.com/PLTV/4/224/3221227542/index.m3u8
 军事评论,http://ott.mobaibox.com/PLTV/4/224/3221227544/index.m3u8
+精品纪录,http://ott.mobaibox.com/PLTV/4/224/3221227547/index.m3u8
 爱情喜剧,http://ott.mobaibox.com/PLTV/4/224/3221227548/index.m3u8
 农业致富,http://ott.mobaibox.com/PLTV/4/224/3221227588/index.m3u8
-动作电影,http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
-军旅剧场,http://ott.mobaibox.com/PLTV/4/224/3221227603/index.m3u8
-家庭剧场,http://ott.mobaibox.com/PLTV/4/224/3221227600/index.m3u8
 明星大片,http://ott.mobaibox.com/PLTV/4/224/3221227594/index.m3u8
+家庭剧场,http://ott.mobaibox.com/PLTV/4/224/3221227600/index.m3u8
+军旅剧场,http://ott.mobaibox.com/PLTV/4/224/3221227603/index.m3u8
+动作电影,http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
+怡伴健康,http://ott.mobaibox.com/PLTV/4/224/3221227612/index.m3u8
 精品体育,http://ott.mobaibox.com/PLTV/4/224/3221227615/index.m3u8
 精品大剧,http://ott.mobaibox.com/PLTV/4/224/3221227618/index.m3u8
-精品纪录,http://ott.mobaibox.com/PLTV/4/224/3221227547/index.m3u8
 精品萌宠,http://ott.mobaibox.com/PLTV/4/224/3221228430/index.m3u8
-怡伴健康,http://ott.mobaibox.com/PLTV/4/224/3221227612/index.m3u8
-海外剧场,http://ott.mobaibox.com/PLTV/4/224/3221227539/index.m3u8
-热播精选,http://ott.mobaibox.com/PLTV/4/224/3221227512/index.m3u8
 
 江苏地方,#genre#
 
@@ -658,38 +659,38 @@ NewTV,#genre#
 
 天元围棋,http://ott.mobaibox.com/PLTV/4/224/3221228513/index.m3u8
 
-音乐-8815,http://ott.mobaibox.com/PLTV/4/224/3221228815/index.m3u8
-音乐-8592,http://ott.mobaibox.com/PLTV/4/224/3221228592/index.m3u8
-音乐-8641,http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
+怀旧MTV,http://ott.mobaibox.com/PLTV/4/224/3221228815/index.m3u8
+音乐心情,http://ott.mobaibox.com/PLTV/4/224/3221228592/index.m3u8
+影综金曲,http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 
 黑莓动画,http://ott.mobaibox.com/PLTV/4/224/3221225555/index.m3u8
-动画-8456,http://ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
-动画-8460,http://ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
-动画-8463,http://ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
+德凯奥特曼,http://ott.mobaibox.com/PLTV/4/224/3221228456/index.m3u8
+小猪佩奇,http://ott.mobaibox.com/PLTV/4/224/3221228460/index.m3u8
+超级飞侠,http://ott.mobaibox.com/PLTV/4/224/3221228463/index.m3u8
 动画-8536,http://ott.mobaibox.com/PLTV/4/224/3221228536/index.m3u8
 动画-8539,http://ott.mobaibox.com/PLTV/4/224/3221228539/index.m3u8
-动画-8579,http://ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
-动画-8603,http://ott.mobaibox.com/PLTV/4/224/3221228603/index.m3u8
-亲宝玩具-8638,http://ott.mobaibox.com/PLTV/4/224/3221228638/index.m3u8
+动漫星空,http://ott.mobaibox.com/PLTV/4/224/3221228579/index.m3u8
+儿童天地,http://ott.mobaibox.com/PLTV/4/224/3221228603/index.m3u8
+亲宝玩具,http://ott.mobaibox.com/PLTV/4/224/3221228638/index.m3u8
 
-哒啵赛事,http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
 体育-8726,http://ott.mobaibox.com/PLTV/4/224/3221228726/index.m3u8
 体育-8737,http://ott.mobaibox.com/PLTV/4/224/3221228737/index.m3u8
 
-健身-8454,http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
+居家健身,http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
 健身-8635,http://ott.mobaibox.com/PLTV/4/224/3221228635/index.m3u8
-健身-8706,http://ott.mobaibox.com/PLTV/4/224/3221228706/index.m3u8
+健康生活,http://ott.mobaibox.com/PLTV/4/224/3221228706/index.m3u8
 
-4KUHD-1,http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
-4KUHD-2,http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+纯享4K-1,http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+纯享4K-2,http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 4K修复,http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 4K演示-8589,http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 
 黑莓电影,http://ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
 黑莓电影,http://ott.mobaibox.com/PLTV/4/224/3221227520/index.m3u8
+高分电影,http://ott.mobaibox.com/PLTV/4/224/3221228644/index.m3u8
 电影-8685,http://ott.mobaibox.com/PLTV/4/224/3221228685/index.m3u8
 电影-8714,http://ott.mobaibox.com/PLTV/4/224/3221228714/index.m3u8
-电影-8740,http://ott.mobaibox.com/PLTV/4/224/3221228740/index.m3u8
+第一院线,http://ott.mobaibox.com/PLTV/4/224/3221228740/index.m3u8
 
 电视剧-7579,http://ott.mobaibox.com/PLTV/4/224/3221227579/index.m3u8
 电视剧-8132,http://ott.mobaibox.com/PLTV/4/224/3221228132/index.m3u8
@@ -707,7 +708,6 @@ NewTV,#genre#
 电视剧-8621,http://ott.mobaibox.com/PLTV/4/224/3221228621/index.m3u8
 电视剧-8624,http://ott.mobaibox.com/PLTV/4/224/3221228624/index.m3u8
 电视剧-8627,http://ott.mobaibox.com/PLTV/4/224/3221228627/index.m3u8
-电视剧-8644,http://ott.mobaibox.com/PLTV/4/224/3221228644/index.m3u8
 电视剧-8663,http://ott.mobaibox.com/PLTV/4/224/3221228663/index.m3u8
 电视剧-8664,http://ott.mobaibox.com/PLTV/4/224/3221228664/index.m3u8
 电视剧-8666,http://ott.mobaibox.com/PLTV/4/224/3221228666/index.m3u8
@@ -742,12 +742,12 @@ NewTV,#genre#
 电视剧-8899,http://ott.mobaibox.com/PLTV/4/224/3221228899/index.m3u8
 电视剧-8911,http://ott.mobaibox.com/PLTV/4/224/3221228911/index.m3u8
 
-记录-8559,http://ott.mobaibox.com/PLTV/4/224/3221228559/index.m3u8
-记录-8562,http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
+动物世界,http://ott.mobaibox.com/PLTV/4/224/3221228559/index.m3u8
+美食美味,http://ott.mobaibox.com/PLTV/4/224/3221228562/index.m3u8
 记录-8588,http://ott.mobaibox.com/PLTV/4/224/3221228588/index.m3u8
 记录-8700,http://ott.mobaibox.com/PLTV/4/224/3221228700/index.m3u8
 记录-8717,http://ott.mobaibox.com/PLTV/4/224/3221228717/index.m3u8
-记录-8723,http://ott.mobaibox.com/PLTV/4/224/3221228723/index.m3u8
+自然地理,http://ott.mobaibox.com/PLTV/4/224/3221228723/index.m3u8
 
 棋牌-8586,http://ott.mobaibox.com/PLTV/4/224/3221228586/index.m3u8
 棋牌-8808,http://ott.mobaibox.com/PLTV/4/224/3221228808/index.m3u8
@@ -783,7 +783,7 @@ NewTV,#genre#
 7905,http://ott.mobaibox.com/PLTV/4/224/3221227905/index.m3u8
 8637,http://ott.mobaibox.com/PLTV/4/224/3221228637/index.m3u8
 
-8591,http://ott.mobaibox.com/PLTV/4/224/3221228591/index.m3u8
+热门综艺,http://ott.mobaibox.com/PLTV/4/224/3221228591/index.m3u8
 8843,http://ott.mobaibox.com/PLTV/4/224/3221228843/index.m3u8
 
 南京长江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
