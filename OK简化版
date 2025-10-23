@@ -312,6 +312,11 @@
       "name": "catvod.com(备用)",
       "type": 0,
       "url": "https://live.catvod.com/tv.m3u"
+    },
+    {
+      "name": "榴芒",
+      "type": 0,
+      "url": "http://106.53.99.30/2025.txt"
     }
   ],
   "ijk": [
