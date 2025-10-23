@@ -298,12 +298,6 @@
       "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt"
     },
     {
-      "name": "冰茶",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Ffy.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeidehaimaiqian%26json%3Dtrue",
-      "ua": "bingcha/1.1"
-    },
-    {
       "name": "catvod.com",
       "type": 0,
       "url": "https://iptv.catvod.com/tv.m3u"
@@ -312,11 +306,6 @@
       "name": "catvod.com(备用)",
       "type": 0,
       "url": "https://live.catvod.com/tv.m3u"
-    },
-    {
-      "name": "榴芒",
-      "type": 0,
-      "url": "http://106.53.99.30/2025.txt"
     }
   ],
   "ijk": [
