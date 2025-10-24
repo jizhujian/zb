@@ -18,11 +18,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "https://www.appdm.akandm.com",
-        "site": "",
         "dataKey": "uI1TkPJC8B46AyN3",
-        "dataIv": "uI1TkPJC8B46AyN3",
-        "deviceId": "",
-        "version": ""
+        "dataIv": "uI1TkPJC8B46AyN3"
       }
     },
     {
@@ -33,12 +30,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "https://dy.8ttv.cn",
-        "site": "",
         "dataKey": "1111111111111111",
-        "dataIv": "1111111111111111",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
+        "dataIv": "1111111111111111"
       }
     },
     {
@@ -49,12 +42,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "http://www.zjcvod.com",
-        "site": "",
         "dataKey": "ab4e9a421675f14b",
-        "dataIv": "ab4e9a421675f14b",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
+        "dataIv": "ab4e9a421675f14b"
       }
     },
     {
@@ -65,12 +54,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
-        "site": "",
         "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
+        "dataIv": "5a9w6x58dsq6z3a6"
       }
     },
     {
@@ -80,11 +65,9 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "",
         "site": "https://bind.315999.xyz/89.txt",
         "dataKey": "#getapp@TMD@2025",
         "dataIv": "#getapp@TMD@2025",
-        "deviceId": "",
         "version": "120"
       }
     },
@@ -96,10 +79,8 @@
       "api": "csp_AppGet",
       "ext": {
         "url": "http://ys.qist.top",
-        "site": "",
         "dataKey": "2SWSPFxugBLPPOKo",
         "dataIv": "2SWSPFxugBLPPOKo",
-        "deviceId": "",
         "version": "120"
       }
     },
@@ -149,7 +130,7 @@
       "name": "金牌｜影视",
       "type": 3,
       "api": "csp_Jpys",
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
       "key": "苹果影视",
@@ -199,16 +180,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "88看球",
-      "name": "88｜看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      }
     }
   ],
   "parses": [
