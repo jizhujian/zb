@@ -185,18 +185,6 @@
       }
     },
     {
-      "key": "于浅",
-      "name": "于浅｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://202.140.143.116:88",
-        "dataKey": "leroulerop.lerom",
-        "dataIv": "leroulerop.lerom"
-      }
-    },
-    {
       "key": "爱看",
       "name": "爱看｜APP",
       "type": 3,
@@ -206,18 +194,6 @@
         "url": "https://www.appdm.akandm.com",
         "dataKey": "uI1TkPJC8B46AyN3",
         "dataIv": "uI1TkPJC8B46AyN3"
-      }
-    },
-    {
-      "key": "坚果",
-      "name": "坚果丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://a.ngdy1.cn",
-        "dataKey": "2015692015692015",
-        "dataIv": "2015692015692015"
       }
     },
     {
@@ -378,34 +354,6 @@
       }
     },
     {
-      "key": "腾讯视频",
-      "name": "腾讯｜视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/腾讯视频.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "优酷｜视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/优酷视频.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "芒果｜视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/芒果视频.js"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "爱奇异｜视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/爱奇艺.js"
-    },
-    {
       "key": "三六零",
       "name": "三六零｜视频",
       "type": 3,
@@ -480,20 +428,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "明星影视",
-      "name": "明星｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/明星影视.json"
-    },
-    {
-      "key": "永乐影视",
-      "name": "永乐｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/永乐影视.json"
     },
     {
       "key": "1905",
