@@ -1,5 +1,5 @@
 {
-  "spider": "./OKspider;md5;3a6519f2cd96228a915786f1f6e588bc",
+  "spider": "./OKspider;md5;f2cc89bbc9798bde7d06a28c3cc74803",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -113,6 +113,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "一起",
+      "name": "📺一起┃秒播",
+      "type": 3,
+      "api": "csp_YqsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
       "timeout": 10
     },
