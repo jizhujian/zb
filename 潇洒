@@ -76,8 +76,8 @@
       "ext": "https://v.catcs.cc/api.php/v1.vod"
     },
     {
-      "key": "冷心",
-      "name": "冷心｜APP",
+      "key": "火猫",
+      "name": "火猫｜APP",
       "type": 3,
       "api": "csp_AppMuou",
       "ext": {
@@ -98,15 +98,15 @@
       }
     },
     {
-      "key": "爱影",
-      "name": "爱影｜APP",
+      "key": "一一",
+      "name": "一一｜APP",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
+      "api": "csp_AppMuou",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d"
+        "url": "http://app.yiyi521.top",
+        "name": "YIYI影视"
       }
     },
     {
@@ -120,19 +120,6 @@
         "dataKey": "37kj83zs1q16jk6t",
         "dataIv": "37kj83zs1q16jk6t",
         "version": "101"
-      }
-    },
-    {
-      "key": "若雪",
-      "name": "若雪丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://appcms.rx4k.top",
-        "dataKey": "ZX10ysTYZWtIJCTU",
-        "dataIv": "ZX10ysTYZWtIJCTU",
-        "version": "120"
       }
     },
     {
@@ -237,6 +224,18 @@
       }
     },
     {
+      "key": "瑞奇",
+      "name": "瑞奇｜APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://rqxk.gdata.fun",
+        "dataKey": "yangruiqiYsapp00",
+        "dataIv": "yangruiqiYsapp00"
+      }
+    },
+    {
       "key": "优势",
       "name": "优势丨APP",
       "type": 3,
@@ -246,6 +245,18 @@
         "url": "http://zxy-ys.810211.dpdns.org",
         "dataKey": "1234567890123456",
         "dataIv": "1234567890123456"
+      }
+    },
+    {
+      "key": "茉莉",
+      "name": "茉莉｜APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
       }
     },
     {
@@ -543,7 +554,26 @@
       "api": "csp_SP360"
     },
     {
-      "key": "小斑快映",
+      "key": "玩偶",
+      "name": "玩偶｜4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.wogg.lol",
+          "https://wogg.xxooo.cf",
+          "https://www.wogg.one",
+          "https://wogg.333232.xyz",
+          "https://woggpan.888484.xyz"
+        ]
+      }
+    },
+    {
+      "key": "快映",
       "name": "快映｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
@@ -551,18 +581,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/xbky.json"
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "玩偶｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/wogg.json"
+      "ext": {
+        "site": [
+          "http://xsayang.fun:12512"
+        ]
+      }
     },
     {
       "key": "木偶",
@@ -573,7 +596,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/mogg.json"
+      "ext": {
+        "site": [
+          "https://123.666291.xyz",
+          "https://666.666291.xyz",
+          "https://www.muou.site",
+          "https://www.muou.asia"
+        ]
+      }
     },
     {
       "key": "蜡笔",
@@ -584,7 +614,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/lb.json"
+      "ext": {
+        "site": [
+          "https://www.labi88.sbs",
+          "https://feimao666.fun",
+          "http://feimao888.fun"
+        ]
+      }
     },
     {
       "key": "至臻",
@@ -595,7 +631,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/zz.json"
+      "ext": {
+        "site": [
+          "https://mihdr.top",
+          "https://www.miqk.cc",
+          "https://xiaomiai.site",
+          "https://xiaomi666.fun",
+          "https://www.mihdr.top",
+          "https://www.zhizhenpan.fun"
+        ]
+      }
     },
     {
       "key": "多多",
@@ -606,7 +651,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/yyds.json"
+      "ext": {
+        "site": [
+          "https://tv.yydsys.top",
+          "https://tv.yydsys.cc",
+          "https://tv.214521.xyz"
+        ]
+      }
     },
     {
       "key": "欧哥",
@@ -617,7 +668,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/og.json"
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org"
+        ]
+      }
     },
     {
       "key": "二小",
@@ -628,7 +683,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/ex.json"
+      "ext": {
+        "site": [
+          "https://xhww.net",
+          "https://erxiaofn.site",
+          "https://erxiaofn.click",
+          "https://www.xhww.net"
+        ]
+      }
     },
     {
       "key": "虎斑",
@@ -639,7 +701,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/hb.json"
+      "ext": {
+        "site": [
+          "http://103.45.162.207:20720"
+        ]
+      }
     },
     {
       "key": "雷鲸",
@@ -654,7 +720,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/lj.json"
+      "ext": "./json/雷鲸.json"
     },
     {
       "key": "海绵",
@@ -669,7 +735,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/hm.json"
+      "ext": "./json/海绵.json"
     },
     {
       "key": "夸父",
@@ -684,7 +750,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/kf.json"
+      "ext": "./json/夸父.json"
     },
     {
       "key": "123",
@@ -700,23 +766,6 @@
         "ratio": 1.433
       },
       "ext": "./json/123.json"
-    },
-    {
-      "key": "趣盘",
-      "name": "趣盘｜4K",
-      "type": 3,
-      "api": "csp_PanWebQu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "url": "https://www.qupanshe.com"
-      }
     },
     {
       "key": "双星",
@@ -753,16 +802,6 @@
       "name": "甜圈｜短剧",
       "type": 3,
       "api": "./py/甜圈短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "锦鲤短剧",
-      "name": "锦鲤｜短剧",
-      "type": 3,
-      "api": "./py/锦鲤短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -853,15 +892,6 @@
       "name": "饺子｜影视",
       "type": 3,
       "api": "csp_Jiaozi"
-    },
-    {
-      "key": "低端影视",
-      "name": "低端｜影视",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "瓜子影视",
@@ -1337,17 +1367,8 @@
       }
     },
     {
-      "key": "糖果",
-      "name": "糖果｜搜索",
-      "type": 3,
-      "api": "csp_TGSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "阿里盘搜",
-      "name": "阿里｜搜索",
+      "name": "阿里｜盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1359,7 +1380,7 @@
     },
     {
       "key": "夸克盘搜",
-      "name": "夸克｜搜索",
+      "name": "夸克｜盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1371,7 +1392,7 @@
     },
     {
       "key": "UC盘搜",
-      "name": "UC｜搜索",
+      "name": "UC｜盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1383,7 +1404,7 @@
     },
     {
       "key": "天翼盘搜",
-      "name": "天翼｜搜索",
+      "name": "天翼｜盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1395,7 +1416,7 @@
     },
     {
       "key": "123盘搜",
-      "name": "123｜搜索",
+      "name": "123｜盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1407,7 +1428,7 @@
     },
     {
       "key": "百度盘搜",
-      "name": "百度｜搜索",
+      "name": "百度｜盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -1416,6 +1437,15 @@
       "ext": {
         "cloudDrives": "baidu"
       }
+    },
+    {
+      "key": "糖果",
+      "name": "糖果｜搜索",
+      "type": 3,
+      "api": "csp_TGSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "百酷",

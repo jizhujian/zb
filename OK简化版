@@ -1,5 +1,5 @@
 {
-  "spider": "./OKspider;md5;8cf13b6465f75602fb5024c14a06fbe9",
+  "spider": "./OKspider;md5;9d310579b59a723fad71d7443ab3a05d",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -34,20 +34,6 @@
       "timeout": 10
     },
     {
-      "key": "热播",
-      "name": "📺热播┃App",
-      "type": 3,
-      "api": "csp_TianTianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "site": 0
-      },
-      "timeout": 10
-    },
-    {
       "key": "文才",
       "name": "🌺文才┃在线",
       "type": 3,
@@ -67,6 +53,20 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃App",
+      "type": 3,
+      "api": "csp_TianTianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "site": 0
+      },
       "timeout": 10
     },
     {
@@ -91,6 +91,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "云云",
+      "name": "☁️云云┃App",
+      "type": 3,
+      "api": "csp_YunYunGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
       "timeout": 10
     },
@@ -139,6 +150,38 @@
       "timeout": 10
     },
     {
+      "key": "厂长",
+      "name": "📔厂长┃直连",
+      "type": 3,
+      "api": "csp_CzzyGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "csp_Btt",
+      "name": "🌞比特┃在线",
+      "type": 3,
+      "api": "csp_BttGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "荐片",
+      "name": "⚔️荐片┃手机",
+      "type": 3,
+      "api": "csp_JianpianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
       "key": "韩圈",
       "name": "🦄韩圈┃App",
       "type": 3,
@@ -151,10 +194,10 @@
       "timeout": 10
     },
     {
-      "key": "荐片",
-      "name": "⚔️荐片┃手机",
-      "type": 3,
-      "api": "csp_JianpianGuard",
+      "key": "电影天堂",
+      "name": "🎞️天堂┃采集",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,

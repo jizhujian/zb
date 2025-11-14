@@ -43,40 +43,6 @@
       "ext": "https://v.catcs.cc/api.php/v1.vod"
     },
     {
-      "key": "冷心",
-      "name": "冷心｜APP",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://app.789dd.cn",
-        "name": "火猫影视"
-      }
-    },
-    {
-      "key": "金牌",
-      "name": "金牌｜APP",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
-        "name": "金牌影院（请断网再安装）"
-      }
-    },
-    {
-      "key": "爱影",
-      "name": "爱影｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d"
-      }
-    },
-    {
       "key": "咖啡",
       "name": "咖啡丨APP",
       "type": 3,
@@ -87,19 +53,6 @@
         "dataKey": "37kj83zs1q16jk6t",
         "dataIv": "37kj83zs1q16jk6t",
         "version": "101"
-      }
-    },
-    {
-      "key": "若雪",
-      "name": "若雪丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://appcms.rx4k.top",
-        "dataKey": "ZX10ysTYZWtIJCTU",
-        "dataIv": "ZX10ysTYZWtIJCTU",
-        "version": "120"
       }
     },
     {
@@ -192,6 +145,18 @@
       }
     },
     {
+      "key": "茉莉",
+      "name": "茉莉｜APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },
+    {
       "key": "星空",
       "name": "星空｜APP",
       "type": 3,
@@ -201,6 +166,18 @@
         "url": "http://xkcms.xkgzs.xyz",
         "dataKey": "AJcdjkAjkdJDkvcd",
         "dataIv": "AJcdjkAjkdJDkvcd"
+      }
+    },
+    {
+      "key": "数字",
+      "name": "数字｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://app1-0-0.87333.cc",
+        "dataKey": "VwsHxkCViDXEExWa",
+        "dataIv": "VwsHxkCViDXEExWa"
       }
     },
     {
@@ -240,6 +217,19 @@
       }
     },
     {
+      "key": "星星",
+      "name": "星星丨APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://starani.qcanime.xyz",
+        "dataKey": "123456789StarAni",
+        "dataIv": "123456789StarAni",
+        "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
+      }
+    },
+    {
       "key": "稀饭",
       "name": "稀饭丨APP",
       "type": 3,
@@ -249,6 +239,18 @@
         "url": "https://app.xifanys.com",
         "dataKey": "HM6Ly9yeS4ya3dvL",
         "dataIv": "HM6Ly9yeS4ya3dvL"
+      }
+    },
+    {
+      "key": "五八",
+      "name": "五八丨APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://dy.58ys.vip",
+        "dataKey": "JEWibY1AgWF0V1xx",
+        "dataIv": "JEWibY1AgWF0V1xx"
       }
     },
     {
@@ -355,6 +357,17 @@
       "api": "csp_SP360"
     },
     {
+      "key": "厂长影视",
+      "name": "厂长｜影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czzymovie.com"
+    },
+    {
       "key": "金牌影视",
       "name": "金牌｜影视",
       "type": 3,
@@ -408,6 +421,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "莫小影视",
+      "name": "莫小｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/莫小影视.json"
     },
     {
       "key": "1905",
