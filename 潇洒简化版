@@ -44,8 +44,8 @@
       }
     },
     {
-      "key": "星空①",
-      "name": "星空①｜APP",
+      "key": "星空",
+      "name": "星空｜APP",
       "type": 3,
       "api": "csp_AppFox",
       "ext": {
@@ -177,19 +177,6 @@
       }
     },
     {
-      "key": "星空②",
-      "name": "星空②｜APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://43.154.4.75",
-        "dataKey": "HDk-7CnlK8SQUGLg",
-        "dataIv": "HDk-7CnlK8SQUGLg"
-      }
-    },
-    {
       "key": "冷心",
       "name": "冷心｜APP",
       "type": 3,
@@ -212,19 +199,6 @@
       }
     },
     {
-      "key": "魔方",
-      "name": "魔方｜APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://app.ybn-ooo.top",
-        "dataKey": "vcfgytu7654rtyui",
-        "dataIv": "vcfgytu7654rtyui"
-      }
-    },
-    {
       "key": "茉莉",
       "name": "茉莉｜APP",
       "type": 3,
@@ -234,18 +208,6 @@
         "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
-      }
-    },
-    {
-      "key": "星空③",
-      "name": "星空③｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://xkcms.xkgzs.xyz",
-        "dataKey": "AJcdjkAjkdJDkvcd",
-        "dataIv": "AJcdjkAjkdJDkvcd"
       }
     },
     {
@@ -418,15 +380,6 @@
       "name": "苹果｜影视",
       "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子｜影视",
-      "type": 3,
-      "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
