@@ -1,7 +1,7 @@
 {
-  "spider": "./OKspider;md5;f65f51d1706f23341268281dc0507c8e",
+  "spider": "./OKspider;md5;6f0c1ff8079e681a0fef5fdf7dffaa50",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
+  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
   "sites": [
     {
       "key": "豆瓣",
@@ -350,6 +350,16 @@
       "name": "江苏移动",
       "type": 0,
       "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt"
+    },
+    {
+      "name": "catvod.com",
+      "type": 0,
+      "url": "https://iptv.catvod.com/tv.m3u"
+    },
+    {
+      "name": "catvod.com(备用)",
+      "type": 0,
+      "url": "https://live.catvod.com/tv.m3u"
     }
   ],
   "ijk": [
@@ -529,6 +539,8 @@
     ".*boku.*",
     ".*nivod.*",
     ".*ulivetv.*",
+    "188766.xyz",
+    "4gtv.tv",
     "iill.top"
   ],
   "rules": [
