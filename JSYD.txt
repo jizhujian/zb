@@ -164,9 +164,6 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 
 卫视,#genre#
 
-凤凰中文,http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
-凤凰资讯,http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
-凤凰香港,http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221227255/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221227402/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221227439/index.m3u8
@@ -339,6 +336,12 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/4/224/3221228651/index.m3u8
 CETV1,http://ott.mobaibox.com/PLTV/4/224/3221225909/index.m3u8
+
+港台,#genre#
+凤凰中文,http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+凤凰资讯,http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+凤凰香港,http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
+台湾+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 睛彩,#genre#
 
@@ -690,6 +693,32 @@ NewTV,#genre#
 南京南站直播,http://ott.mobaibox.com/PLTV/4/224/3221228715/index.m3u8
 南京音乐台直播,http://ott.mobaibox.com/PLTV/4/224/3221228753/index.m3u8
 南京北级阁直播,http://ott.mobaibox.com/PLTV/4/224/3221228806/index.m3u8
+
+百视通,#genre#
+
+新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+爱上海,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
+
+上海IPv6,#genre#
+
+东方财经,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=m
+动漫秀场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=m
+动漫秀场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000023636/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=m
+都市剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=m
+都市剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000004412/1.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=m
+法治天地,http://[2409:8087:1e01:23::10]:8112/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=m
+欢笑剧场4K,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=m
+欢笑剧场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=m
+金色学堂,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=m
+乐游,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=m
+乐游,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040025/1.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=m
+生活时尚,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=m
+游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=m
+游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=m
 
 标清,#genre#
 
