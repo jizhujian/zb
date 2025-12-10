@@ -337,11 +337,14 @@ CGTN,http://ott.mobaibox.com/PLTV/4/224/3221228811/index.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/4/224/3221228651/index.m3u8
 CETV1,http://ott.mobaibox.com/PLTV/4/224/3221225909/index.m3u8
 
-港台,#genre#
+港澳台,#genre#
+
 凤凰中文,http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰香港,http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 台湾+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+欧洲华文电视台1,http://oh.eztv.vip/live/eztv1.m3u8
 
 睛彩,#genre#
 
@@ -658,6 +661,15 @@ NewTV,#genre#
 美妆-8703,http://ott.mobaibox.com/PLTV/4/224/3221228703/index.m3u8
 农业致富-8720,http://ott.mobaibox.com/PLTV/4/224/3221228720/index.m3u8
 
+重温经典,https://other.ottiptv.cc/cwjd.m3u8
+
+新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+爱上海,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -694,16 +706,7 @@ NewTV,#genre#
 南京音乐台直播,http://ott.mobaibox.com/PLTV/4/224/3221228753/index.m3u8
 南京北级阁直播,http://ott.mobaibox.com/PLTV/4/224/3221228806/index.m3u8
 
-百视通,#genre#
-
-新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-爱上海,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
-上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
-五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
-上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
-
-上海IPv6,#genre#
+ipv6,#genre#
 
 东方财经,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=m
 动漫秀场,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=m
@@ -719,6 +722,11 @@ NewTV,#genre#
 生活时尚,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=m
 游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=m
 游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=m
+
+外国,#genre#
+
+NHK WORLD,https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+Fox News Now,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 标清,#genre#
 
