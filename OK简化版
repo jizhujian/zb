@@ -117,17 +117,6 @@
       "timeout": 10
     },
     {
-      "key": "咖啡",
-      "name": "🍫咖啡┃App",
-      "type": 3,
-      "api": "csp_KaFeiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
       "key": "一起",
       "name": "📺一起┃秒播",
       "type": 3,
@@ -158,16 +147,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "csp_Btt",
-      "name": "🌞比特┃在线",
-      "type": 3,
-      "api": "csp_BttGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
       "timeout": 10
     },
     {
