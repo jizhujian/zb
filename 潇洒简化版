@@ -23,15 +23,6 @@
       }
     },
     {
-      "key": "吉米",
-      "name": "吉米｜APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://fox.tvmao.top"
-      }
-    },
-    {
       "key": "恋鱼",
       "name": "恋鱼｜APP",
       "type": 3,
@@ -42,22 +33,14 @@
       }
     },
     {
-      "key": "麒麟",
-      "name": "麒麟｜APP",
+      "key": "椰子",
+      "name": "椰子｜APP",
       "type": 3,
+      "changeable": 0,
       "api": "csp_AppFox",
       "ext": {
-        "host": "https://www.70yyw.cc",
+        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json",
         "ver": 2
-      }
-    },
-    {
-      "key": "木瓜",
-      "name": "木瓜｜APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://www.yezitv.top"
       }
     },
     {
@@ -110,9 +93,9 @@
       "quickSearch": 1,
       "api": "csp_AppQi",
       "ext": {
-        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-        "dataKey": "da61247f5b662597",
-        "dataIv": "da61247f5b662597",
+        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi430.txt",
+        "dataKey": "7sKhdca8HXGuyZ4x",
+        "dataIv": "7sKhdca8HXGuyZ4x",
         "version": "120"
       }
     },
@@ -168,41 +151,6 @@
       }
     },
     {
-      "key": "麻花",
-      "name": "麻花｜APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://49.235.114.19:150",
-        "dataKey": "q7gj4f9br3fls6nh",
-        "dataIv": "q7gj4f9br3fls6nh"
-      }
-    },
-    {
-      "key": "冷心",
-      "name": "冷心｜APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://dy.58ys.vip",
-        "dataKey": "JEWibY1AgWF0V1xx",
-        "dataIv": "JEWibY1AgWF0V1xx"
-      }
-    },
-    {
-      "key": "火猫",
-      "name": "火猫｜APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://103.23.148.70:14500",
-        "dataKey": "J6AIORKJ3PQOJKM8",
-        "dataIv": "J6AIORKJ3PQOJKM8"
-      }
-    },
-    {
       "key": "魔方",
       "name": "魔方｜APP",
       "type": 3,
@@ -210,7 +158,7 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "https://www.mfsp4k.top",
+        "url": "https://www.26mf4k.top",
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       }
@@ -264,43 +212,6 @@
       }
     },
     {
-      "key": "星星",
-      "name": "星星丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://starani.qcanime.xyz",
-        "dataKey": "123456789StarAni",
-        "dataIv": "123456789StarAni",
-        "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-      }
-    },
-    {
-      "key": "稀饭",
-      "name": "稀饭丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.xifanys.com",
-        "dataKey": "HM6Ly9yeS4ya3dvL",
-        "dataIv": "HM6Ly9yeS4ya3dvL"
-      }
-    },
-    {
-      "key": "五八",
-      "name": "五八丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://dy.58ys.vip",
-        "dataKey": "JEWibY1AgWF0V1xx",
-        "dataIv": "JEWibY1AgWF0V1xx"
-      }
-    },
-    {
       "key": "驿站",
       "name": "驿站丨APP",
       "type": 3,
@@ -310,18 +221,6 @@
         "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
         "dataKey": "dyyztvapiappyyds",
         "dataIv": "dyyztvapiappyyds"
-      }
-    },
-    {
-      "key": "莱米",
-      "name": "莱米｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-        "dataKey": "ce032244d093b3e2",
-        "dataIv": "ce032244d093b3e2"
       }
     },
     {
@@ -384,7 +283,7 @@
       "name": "金牌｜影视",
       "type": 3,
       "api": "csp_Jpys",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      "ext": "https://hnytxj.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
       "key": "奇优影视",
@@ -424,6 +323,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "韩剧看看",
+      "name": "韩剧｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/韩剧看看.json"
     },
     {
       "key": "莫小影视",

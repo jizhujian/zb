@@ -1,5 +1,5 @@
 {
-  "spider": "./OKspider;md5;83e2ccc1e3c050154d8390b60f1a2ae2",
+  "spider": "./OKspider;md5;e8f825112622dc0da002217b29e03bed",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
   "sites": [
@@ -70,20 +70,6 @@
       "timeout": 10
     },
     {
-      "key": "浪酷版",
-      "name": "👓浪酷┃秒播",
-      "type": 3,
-      "api": "csp_TianTianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "site": 2
-      },
-      "timeout": 10
-    },
-    {
       "key": "小苹果",
       "name": "🍎苹果┃直连",
       "type": 3,
@@ -117,6 +103,17 @@
       "timeout": 10
     },
     {
+      "key": "鲸鱼",
+      "name": "🐳鲸鱼┃App",
+      "type": 3,
+      "api": "csp_JingYuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
       "key": "一起",
       "name": "📺一起┃秒播",
       "type": 3,
@@ -139,6 +136,20 @@
       "timeout": 10
     },
     {
+      "key": "木瓜",
+      "name": "🥑木瓜┃App",
+      "type": 3,
+      "api": "csp_AppFoxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "siteUrl": "http://www.yezitv.top"
+      },
+      "timeout": 10
+    },
+    {
       "key": "厂长",
       "name": "📔厂长┃直连",
       "type": 3,
@@ -147,6 +158,16 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "csp_Btt",
+      "name": "🌞比特┃在线",
+      "type": 3,
+      "api": "csp_BttGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "timeout": 10
     },
     {
@@ -166,6 +187,17 @@
       "type": 3,
       "api": "csp_HanXiaoQuanGuard",
       "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "电影天堂",
+      "name": "🎞️天堂┃采集",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
