@@ -16,6 +16,9 @@ CCTV1综合,http://ott.mobaibox.com/PLTV/4/224/3221228146/index.m3u8
 CCTV1综合,http://ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
 CCTV1综合,http://ott.mobaibox.com/PLTV/4/224/3221228213/index.m3u8
 CCTV1综合,http://ott.mobaibox.com/PLTV/4/224/3221228287/index.m3u8
+CCTV1综合,http://ott.mobaibox.com/PLTV/4/224/3221228732/index.m3u8
+CCTV1综合,http://ott.mobaibox.com/PLTV/4/224/3221227739/index.m3u8
+CCTV1综合,http://ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
 CCTV2财经,http://ott.mobaibox.com/PLTV/4/224/3221228886/index.m3u8
 CCTV2财经,http://ott.mobaibox.com/PLTV/4/224/3221228906/index.m3u8
 CCTV2财经,http://ott.mobaibox.com/PLTV/4/224/3221226993/index.m3u8
@@ -188,7 +191,6 @@ CETV早期教育,http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221228919/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221228991/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221229009/index.m3u8
-江西卫视,http://ott.mobaibox.com/PLTV/4/224/3221229022/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221227255/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221227402/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/4/224/3221227439/index.m3u8
@@ -315,6 +317,7 @@ CETV早期教育,http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
 纪实科教,http://ott.mobaibox.com/PLTV/4/224/3221228960/index.m3u8
 纪实科教,http://ott.mobaibox.com/PLTV/4/224/3221227699/index.m3u8
 纪实科教,http://ott.mobaibox.com/PLTV/4/224/3221228755/index.m3u8
+江西卫视,http://ott.mobaibox.com/PLTV/4/224/3221229022/index.m3u8
 江西卫视,http://ott.mobaibox.com/PLTV/4/224/3221225536/index.m3u8
 江西卫视,http://ott.mobaibox.com/PLTV/4/224/3221227738/index.m3u8
 江西卫视,http://ott.mobaibox.com/PLTV/4/224/3221228109/index.m3u8
@@ -396,7 +399,6 @@ CETV1,http://ott.mobaibox.com/PLTV/4/224/3221225909/index.m3u8
 凤凰中文,http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰香港,http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
-台湾+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 睛彩,#genre#
 
@@ -461,7 +463,6 @@ CETV1,http://ott.mobaibox.com/PLTV/4/224/3221225909/index.m3u8
 4K超高清,#genre#
 
 CCTV1综合-4K,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
-CCTV1综合-4K,http://ott.mobaibox.com/PLTV/4/224/3221228732/index.m3u8
 CCTV3综艺-4K,http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV5体育-4K,http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV16奥林匹克-4K超高清,http://ott.mobaibox.com/PLTV/4/224/3221228924/index.m3u8
@@ -571,15 +572,15 @@ NewTV,#genre#
 徐州-徐州4,http://ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
 徐州-邳州综合,http://ott.mobaibox.com/PLTV/4/224/3221229011/index.m3u8
 徐州-邳州综合,http://ott.mobaibox.com/PLTV/4/224/3221227576/index.m3u8
-徐州-沛县新闻,http://ott.mobaibox.com/PLTV/4/224/3221229014/index.m3u8
-徐州-沛县新闻,http://ott.mobaibox.com/PLTV/4/224/3221227678/index.m3u8
-徐州-沛县经济,http://ott.mobaibox.com/PLTV/4/224/3221229079/index.m3u8
-徐州-沛县经济,http://ott.mobaibox.com/PLTV/4/224/3221227611/index.m3u8
-徐州-沛县文艺,http://ott.mobaibox.com/PLTV/4/224/3221227681/index.m3u8
+徐州-沛县新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221229014/index.m3u8
+徐州-沛县新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221227678/index.m3u8
+徐州-沛县经济生活,http://ott.mobaibox.com/PLTV/4/224/3221229079/index.m3u8
+徐州-沛县经济生活,http://ott.mobaibox.com/PLTV/4/224/3221227611/index.m3u8
+徐州-沛县文艺影视,http://ott.mobaibox.com/PLTV/4/224/3221227681/index.m3u8
 徐州-睢宁综合,http://ott.mobaibox.com/PLTV/4/224/3221229020/index.m3u8
 徐州-睢宁综合,http://ott.mobaibox.com/PLTV/4/224/3221227706/index.m3u8
+徐州-睢宁综合,http://ott.mobaibox.com/PLTV/4/224/3221227712/index.m3u8
 徐州-睢宁三农,http://ott.mobaibox.com/PLTV/4/224/3221227709/index.m3u8
-徐州-睢宁资讯,http://ott.mobaibox.com/PLTV/4/224/3221227712/index.m3u8
 徐州-铜山1,http://ott.mobaibox.com/PLTV/4/224/3221228979/index.m3u8
 徐州-铜山1,http://ott.mobaibox.com/PLTV/4/224/3221228152/index.m3u8
 徐州-铜山2,http://ott.mobaibox.com/PLTV/4/224/3221228081/index.m3u8
@@ -612,7 +613,6 @@ NewTV,#genre#
 连云港-连云港生活,http://ott.mobaibox.com/PLTV/4/224/3221227819/index.m3u8
 连云港-东海综合,http://ott.mobaibox.com/PLTV/4/224/3221229073/index.m3u8
 连云港-东海综合,http://ott.mobaibox.com/PLTV/4/224/3221227792/index.m3u8
-连云港-东海文娱,http://ott.mobaibox.com/PLTV/4/224/3221227739/index.m3u8
 连云港-灌南,http://ott.mobaibox.com/PLTV/4/224/3221229035/index.m3u8
 连云港-赣榆,http://ott.mobaibox.com/PLTV/4/224/3221229003/index.m3u8
 连云港-赣榆,http://ott.mobaibox.com/PLTV/4/224/3221228317/index.m3u8
@@ -632,7 +632,6 @@ NewTV,#genre#
 盐城-盐城1,http://ott.mobaibox.com/PLTV/4/224/3221229085/index.m3u8
 盐城-盐城1,http://ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
 盐城-盐城2,http://ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
-盐城-盐城3,http://ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
 盐城-大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 盐城-大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 盐城-东台1,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
@@ -661,14 +660,14 @@ NewTV,#genre#
 宿迁-宿迁公共,http://ott.mobaibox.com/PLTV/4/224/3221229061/index.m3u8
 宿迁-宿迁公共,http://ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
 宿迁-沭阳综合,http://ott.mobaibox.com/PLTV/4/224/3221229038/index.m3u8
-宿迁-泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 宿迁-沭阳综合,http://ott.mobaibox.com/PLTV/4/224/3221228812/index.m3u8
 宿迁-沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+宿迁-泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 宿迁-宿豫综合,http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
 
 未知1-新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221228980/index.m3u8
-未知2-新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221229015/index.m3u8
-未知3-新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221229044/index.m3u8
+未知2-新闻综合,http://ott.mobaibox.com/PLTV/4/224/3221229044/index.m3u8
+未知2-经济生活,http://ott.mobaibox.com/PLTV/4/224/3221229015/index.m3u8
 
 其他,#genre#
 
