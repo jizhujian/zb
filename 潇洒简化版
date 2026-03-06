@@ -388,16 +388,6 @@
       "name": "江苏移动",
       "type": 0,
       "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt"
-    },
-    {
-      "name": "全网通",
-      "type": 0,
-      "url": "https://gitee.com/jizhujian/zb/raw/master/QWT.txt"
-    },
-    {
-      "name": "官网直播",
-      "type": 0,
-      "url": "https://raw.bgithub.xyz/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u"
     }
   ],
   "parses": [
