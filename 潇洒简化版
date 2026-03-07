@@ -388,8 +388,7 @@
       "name": "江苏移动",
       "type": 0,
       "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt",
-      "epg": "https://raw.bgithub.xyz/mytv-android/myEPG/refs/heads/master/output/epg.gz",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name|uppercase}.png"
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
     }
   ],
   "parses": [
