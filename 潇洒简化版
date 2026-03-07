@@ -387,8 +387,7 @@
     {
       "name": "江苏移动",
       "type": 0,
-      "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+      "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt"
     }
   ],
   "parses": [
