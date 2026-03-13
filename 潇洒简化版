@@ -388,6 +388,21 @@
       "name": "江苏移动",
       "type": 0,
       "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt"
+    },
+    {
+      "name": "ipv.qq1000.site",
+      "type": 0,
+      "url": "http://ipv.qq1000.site/IPTV.txt"
+    },
+    {
+      "name": "4tv-iptv.nxns.uno",
+      "type": 0,
+      "url": "http://4tv-iptv.nxns.uno/txt"
+    },
+    {
+      "name": "rihou.cc",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk"
     }
   ],
   "parses": [
