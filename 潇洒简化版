@@ -410,19 +410,14 @@
       "url": "http://rihou.cc:555/gggg.nzk"
     },
     {
-      "name": "4TV",
+      "name": "潇雨萌萌",
       "type": 0,
-      "url": "http://4tv-iptv.nxns.uno/txt"
+      "url": "http://ds65.tv1288.xyz"
     },
     {
       "name": "港澳台日韩",
       "type": 0,
       "url": "http://tv123.vvvv.ee/tv.m3u"
-    },
-    {
-      "name": "电信组播转单播",
-      "type": 0,
-      "url": "http://ipv.qq1000.site/IPTV.txt"
     }
   ],
   "parses": [
