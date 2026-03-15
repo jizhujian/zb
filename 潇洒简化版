@@ -390,19 +390,39 @@
       "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt"
     },
     {
-      "name": "ipv.qq1000.site",
+      "name": "电视家",
       "type": 0,
-      "url": "http://ipv.qq1000.site/IPTV.txt"
+      "url": "http://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt"
     },
     {
-      "name": "4tv-iptv.nxns.uno",
+      "name": "猫TV",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk"
+    },
+    {
+      "name": "风云",
+      "type": 0,
+      "url": "http://iptv.4666888.xyz/FYTV.txt"
+    },
+    {
+      "name": "豌豆荚",
+      "type": 0,
+      "url": "http://8.138.7.223/n.txt"
+    },
+    {
+      "name": "4TV",
       "type": 0,
       "url": "http://4tv-iptv.nxns.uno/txt"
     },
     {
-      "name": "rihou.cc",
+      "name": "港澳台日韩",
       "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk"
+      "url": "http://tv123.vvvv.ee/tv.m3u"
+    },
+    {
+      "name": "电信组播转单播",
+      "type": 0,
+      "url": "http://ipv.qq1000.site/IPTV.txt"
     }
   ],
   "parses": [
