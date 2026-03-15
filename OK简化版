@@ -507,24 +507,24 @@
       "url": "https://gitee.com/jizhujian/zb/raw/master/JSYD.txt"
     },
     {
-      "name": "电视家",
-      "type": 0,
-      "url": "http://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt"
-    },
-    {
-      "name": "猫TV",
-      "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk"
-    },
-    {
       "name": "风云",
       "type": 0,
       "url": "http://iptv.4666888.xyz/FYTV.txt"
     },
     {
-      "name": "豌豆荚",
+      "name": "电视家",
+      "type": 0,
+      "url": "http://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt"
+    },
+    {
+      "name": "榴芒",
       "type": 0,
       "url": "http://8.138.7.223/n.txt"
+    },
+    {
+      "name": "猫TV",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk"
     },
     {
       "name": "4TV",
