@@ -527,7 +527,12 @@
       "url": "http://8.138.7.223/n.txt"
     },
     {
-      "name": "港澳台日韩",
+      "name": "4tv-iptv.nxns.uno",
+      "type": 0,
+      "url": "http://4tv-iptv.nxns.uno/txt"
+    },
+    {
+      "name": "tv123.vvvv.ee",
       "type": 0,
       "url": "http://tv123.vvvv.ee/tv.m3u"
     }
