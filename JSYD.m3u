@@ -851,6 +851,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221228103/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228853/index.m3u8
 #EXTINF:-1 tvg-name="无锡都市资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/无锡都市资讯.png" group-title="江苏地方",无锡都市资讯
 http://ott.mobaibox.com/PLTV/4/224/3221228914/index.m3u8
+#EXTINF:-1 tvg-name="江阴新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江阴新闻综合.png" group-title="江苏地方",江阴新闻综合
+http://ott.mobaibox.com/PLTV/4/224/3221228980/index.m3u8
 #EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宜兴新闻综合.png" group-title="江苏地方",宜兴新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221229047/index.m3u8
 #EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/徐州新闻综合.png" group-title="江苏地方",徐州新闻综合
@@ -1037,8 +1039,6 @@ http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 #EXTINF:-1 tvg-name="宿豫综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宿豫综合.png" group-title="江苏地方",宿豫综合
 http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
-#EXTINF:-1 tvg-name="未知1-新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/未知1-新闻综合.png" group-title="江苏地方",未知1-新闻综合
-http://ott.mobaibox.com/PLTV/4/224/3221228980/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰中文.png" group-title="港澳台",凤凰中文
 http://ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="港澳台",凤凰资讯
