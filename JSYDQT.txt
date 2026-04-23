@@ -17,14 +17,6 @@ CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/4/224/3221227601/index.m3u8
 CCTV发现之旅,http://ott.mobaibox.com/PLTV/4/224/3221227030/index.m3u8
 CCTV老故事,http://ott.mobaibox.com/PLTV/4/224/3221227043/index.m3u8
 CCTV中学生,http://ott.mobaibox.com/PLTV/4/224/3221228704/index.m3u8
-CETV1,http://ott.mobaibox.com/PLTV/4/224/3221227560/index.m3u8
-CETV2,http://ott.mobaibox.com/PLTV/4/224/3221225850/index.m3u8
-CETV2,http://ott.mobaibox.com/PLTV/4/224/3221227607/index.m3u8
-CETV2,http://ott.mobaibox.com/PLTV/4/224/3221229004/index.m3u8
-CETV3,http://ott.mobaibox.com/PLTV/4/224/3221227018/index.m3u8
-CETV4,http://ott.mobaibox.com/PLTV/4/224/3221227028/index.m3u8
-CETV4,http://ott.mobaibox.com/PLTV/4/224/3221227657/index.m3u8
-CETV4,http://ott.mobaibox.com/PLTV/4/224/3221228963/index.m3u8
 
 卫视,#genre#
 
@@ -54,7 +46,6 @@ CETV4,http://ott.mobaibox.com/PLTV/4/224/3221228963/index.m3u8
 农林卫视,http://ott.mobaibox.com/PLTV/4/224/3221227648/index.m3u8
 康巴卫视,http://ott.mobaibox.com/PLTV/4/224/3221227008/index.m3u8
 康巴卫视,http://ott.mobaibox.com/PLTV/4/224/3221227645/index.m3u8
-内蒙古卫视,http://ott.mobaibox.com/PLTV/4/224/3221227557/index.m3u8
 宁夏卫视,http://ott.mobaibox.com/PLTV/4/224/3221227563/index.m3u8
 厦门卫视,http://ott.mobaibox.com/PLTV/4/224/3221227604/index.m3u8
 山西卫视,http://ott.mobaibox.com/PLTV/4/224/3221227559/index.m3u8
@@ -70,13 +61,26 @@ CETV4,http://ott.mobaibox.com/PLTV/4/224/3221228963/index.m3u8
 云南卫视,http://ott.mobaibox.com/PLTV/4/224/3221225838/index.m3u8
 重庆卫视,http://ott.mobaibox.com/PLTV/4/224/3221225812/index.m3u8
 兵团卫视,http://ott.mobaibox.com/PLTV/4/224/3221227654/index.m3u8
+CETV2,http://ott.mobaibox.com/PLTV/4/224/3221225850/index.m3u8
+CETV2,http://ott.mobaibox.com/PLTV/4/224/3221227607/index.m3u8
+CETV2,http://ott.mobaibox.com/PLTV/4/224/3221229004/index.m3u8
+CETV3,http://ott.mobaibox.com/PLTV/4/224/3221227018/index.m3u8
+CETV4,http://ott.mobaibox.com/PLTV/4/224/3221227028/index.m3u8
+CETV4,http://ott.mobaibox.com/PLTV/4/224/3221227657/index.m3u8
+CETV4,http://ott.mobaibox.com/PLTV/4/224/3221228963/index.m3u8
+CGTN英语,http://ott.mobaibox.com/PLTV/4/224/3221225917/index.m3u8
+CGTN英语,http://ott.mobaibox.com/PLTV/4/224/3221228095/index.m3u8
+CGTN西班牙语,http://ott.mobaibox.com/PLTV/4/224/3221228550/index.m3u8
+CGTN法语,http://ott.mobaibox.com/PLTV/4/224/3221228553/index.m3u8
+CGTN阿拉伯语,http://ott.mobaibox.com/PLTV/4/224/3221228573/index.m3u8
+CGTN俄语,http://ott.mobaibox.com/PLTV/4/224/3221228629/index.m3u8
+CGTN DOCUMENTARY,http://ott.mobaibox.com/PLTV/4/224/3221227574/index.m3u8
 
 江苏地方,#genre#
 
 江苏影视,http://ott.mobaibox.com/PLTV/4/224/3221225937/index.m3u8
 江苏影视,http://ott.mobaibox.com/PLTV/4/224/3221229037/index.m3u8
 江苏教育,http://ott.mobaibox.com/PLTV/4/224/3221225923/index.m3u8
-江苏有线,http://ott.mobaibox.com/PLTV/4/224/3221227017/index.m3u8
 
 无锡-宜兴生活,http://ott.mobaibox.com/PLTV/4/224/3221229018/index.m3u8
 无锡-宜兴影视,http://ott.mobaibox.com/PLTV/4/224/3221229050/index.m3u8
@@ -92,9 +96,7 @@ CETV4,http://ott.mobaibox.com/PLTV/4/224/3221228963/index.m3u8
 徐州-美丽睢宁,http://ott.mobaibox.com/PLTV/4/224/3221229082/index.m3u8
 徐州-铜山2,http://ott.mobaibox.com/PLTV/4/224/3221228982/index.m3u8
 徐州-铜山3,http://ott.mobaibox.com/PLTV/4/224/3221229052/index.m3u8
-徐州-铜山4,http://ott.mobaibox.com/PLTV/4/224/3221228985/index.m3u8
 徐州-新沂1,http://ott.mobaibox.com/PLTV/4/224/3221229076/index.m3u8
-徐州-新沂2,http://ott.mobaibox.com/PLTV/4/224/3221227311/index.m3u8
 
 盐城-盐城2,http://ott.mobaibox.com/PLTV/4/224/3221229026/index.m3u8
 
@@ -124,10 +126,8 @@ KAKU少儿,http://ott.mobaibox.com/PLTV/4/224/3221227566/index.m3u8
 嘉佳卡通,http://ott.mobaibox.com/PLTV/4/224/3221227598/index.m3u8
 嘉佳卡通,http://ott.mobaibox.com/PLTV/4/224/3221228954/index.m3u8
 
-金鹰纪实,http://ott.mobaibox.com/PLTV/4/224/3221228110/index.m3u8
 山东教育,http://ott.mobaibox.com/PLTV/4/224/3221227019/index.m3u8
 山东教育,http://ott.mobaibox.com/PLTV/4/224/3221227580/index.m3u8
-山东教育,http://ott.mobaibox.com/PLTV/4/224/3221225978/index.m3u8
 书画频道,http://ott.mobaibox.com/PLTV/4/224/3221228574/index.m3u8
 书画频道,http://ott.mobaibox.com/PLTV/4/224/3221228577/index.m3u8
 环球奇观,http://ott.mobaibox.com/PLTV/4/224/3221228695/index.m3u8
@@ -135,21 +135,22 @@ KAKU少儿,http://ott.mobaibox.com/PLTV/4/224/3221227566/index.m3u8
 汽摩,http://ott.mobaibox.com/PLTV/4/224/3221228701/index.m3u8
 
 影视剧频道,http://ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8
-电视剧-8670,http://ott.mobaibox.com/PLTV/4/224/3221228670/index.m3u8
 电视剧-8681,http://ott.mobaibox.com/PLTV/4/224/3221228681/index.m3u8
 电视剧-8776,http://ott.mobaibox.com/PLTV/4/224/3221228776/index.m3u8
 
-7292,http://ott.mobaibox.com/PLTV/4/224/3221227292/index.m3u8
-8538,http://ott.mobaibox.com/PLTV/4/224/3221228538/index.m3u8
-
-摄像头,#genre#
+直播,#genre#
 
 南京长江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
-南京夹江大桥直播,http://ott.mobaibox.com/PLTV/4/224/3221228709/index.m3u8
+南京北极阁直播,http://ott.mobaibox.com/PLTV/4/224/3221228709/index.m3u8
 南京新街口直播,http://ott.mobaibox.com/PLTV/4/224/3221228712/index.m3u8
 南京南站直播,http://ott.mobaibox.com/PLTV/4/224/3221228715/index.m3u8
 南京音乐台直播,http://ott.mobaibox.com/PLTV/4/224/3221228753/index.m3u8
-南京北级阁直播,http://ott.mobaibox.com/PLTV/4/224/3221228806/index.m3u8
+南京牛首山佛顶广场直播,http://ott.mobaibox.com/PLTV/4/224/3221228806/index.m3u8
+南京五马渡直播,http://ott.mobaibox.com/PLTV/4/224/3221228850/index.m3u8
+南京石象路直播,http://ott.mobaibox.com/PLTV/4/224/3221228864/index.m3u8
+南京阅江楼直播,http://ott.mobaibox.com/PLTV/4/224/3221228902/index.m3u8
+南京紫峰眺望3直播,http://ott.mobaibox.com/PLTV/4/224/3221228905/index.m3u8
+南京玄武湖景区直播,http://ott.mobaibox.com/PLTV/4/224/3221229053/index.m3u8
 
 购物,#genre#
 
@@ -167,7 +168,6 @@ KAKU少儿,http://ott.mobaibox.com/PLTV/4/224/3221227566/index.m3u8
 购物-8852,http://ott.mobaibox.com/PLTV/4/224/3221228852/index.m3u8
 购物-8855,http://ott.mobaibox.com/PLTV/4/224/3221228855/index.m3u8
 购物-8887,http://ott.mobaibox.com/PLTV/4/224/3221228887/index.m3u8
-茶频道,http://ott.mobaibox.com/PLTV/4/224/3221228917/index.m3u8
 好享购物,http://ott.mobaibox.com/PLTV/4/224/3221227398/index.m3u8
 央广购物,http://ott.mobaibox.com/PLTV/4/224/3221227769/index.m3u8
 
@@ -206,7 +206,6 @@ KAKU少儿,http://ott.mobaibox.com/PLTV/4/224/3221227566/index.m3u8
 广播-8540,http://ott.mobaibox.com/PLTV/4/224/3221228540/index.m3u8
 广播-8541,http://ott.mobaibox.com/PLTV/4/224/3221228541/index.m3u8
 广播-8543,http://ott.mobaibox.com/PLTV/4/224/3221228543/index.m3u8
-广播-8544,http://ott.mobaibox.com/PLTV/4/224/3221228544/index.m3u8
 广播-8546,http://ott.mobaibox.com/PLTV/4/224/3221228546/index.m3u8
 广播-8547,http://ott.mobaibox.com/PLTV/4/224/3221228547/index.m3u8
 广播-8549,http://ott.mobaibox.com/PLTV/4/224/3221228549/index.m3u8
@@ -217,14 +216,12 @@ KAKU少儿,http://ott.mobaibox.com/PLTV/4/224/3221227566/index.m3u8
 广播-8561,http://ott.mobaibox.com/PLTV/4/224/3221228561/index.m3u8
 广播-8564,http://ott.mobaibox.com/PLTV/4/224/3221228564/index.m3u8
 广播-8567,http://ott.mobaibox.com/PLTV/4/224/3221228567/index.m3u8
-广播-8570,http://ott.mobaibox.com/PLTV/4/224/3221228570/index.m3u8
 广播-8587,http://ott.mobaibox.com/PLTV/4/224/3221228587/index.m3u8
 广播-8590,http://ott.mobaibox.com/PLTV/4/224/3221228590/index.m3u8
 广播-8593,http://ott.mobaibox.com/PLTV/4/224/3221228593/index.m3u8
 广播-8596,http://ott.mobaibox.com/PLTV/4/224/3221228596/index.m3u8
 广播-8599,http://ott.mobaibox.com/PLTV/4/224/3221228599/index.m3u8
 广播-8602,http://ott.mobaibox.com/PLTV/4/224/3221228602/index.m3u8
-广播-8605,http://ott.mobaibox.com/PLTV/4/224/3221228605/index.m3u8
 广播-8608,http://ott.mobaibox.com/PLTV/4/224/3221228608/index.m3u8
 广播-8611,http://ott.mobaibox.com/PLTV/4/224/3221228611/index.m3u8
 广播-8614,http://ott.mobaibox.com/PLTV/4/224/3221228614/index.m3u8
