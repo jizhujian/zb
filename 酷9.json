@@ -9,6 +9,10 @@
       "url": "https://live.264788.xyz/sub/02RzedaJ4hyJmwTReIsLAOKxT4Hf6G"
     },
     {
+      "name": "freetv",
+      "url": "https://t.freetv.fun/m3u/playlist.m3u"
+    },
+    {
       "name": "风云",
       "url": "http://iptv.4666888.xyz/FYTV.m3u"
     },
@@ -25,16 +29,8 @@
       "url": "https://github.catvod.com/https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg1.m3u"
     },
     {
-      "name": "榴芒",
-      "url": "http://8.138.7.223/n.txt"
-    },
-    {
       "name": "潇雨萌萌",
       "url": "http://43.251.226.110:9991/0hygc7"
-    },
-    {
-      "name": "freetv",
-      "url": "https://t.freetv.fun/m3u/playlist.m3u"
     }
   ]
 }
