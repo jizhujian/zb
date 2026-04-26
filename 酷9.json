@@ -5,8 +5,12 @@
       "url": "https://github.catvod.com/https://github.com/jizhujian/zb/blob/master/JSYD.m3u"
     },
     {
+      "name": "China TV",
+      "url": "https://live.264788.xyz/sub/02RzedaJ4hyJmwTReIsLAOKxT4Hf6G"
+    },
+    {
       "name": "风云",
-      "url": "http://iptv.4666888.xyz/FYTV.txt"
+      "url": "http://iptv.4666888.xyz/FYTV.m3u"
     },
     {
       "name": "电视家",
@@ -18,27 +22,19 @@
     },
     {
       "name": "裤佬",
-      "url": "https://github.catvod.com/https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg1"
+      "url": "https://github.catvod.com/https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/Jsnzkpg1.m3u"
     },
     {
       "name": "榴芒",
       "url": "http://8.138.7.223/n.txt"
     },
     {
-      "name": "4tv-iptv.nxns.uno",
-      "url": "http://4tv-iptv.nxns.uno/txt"
-    },
-    {
-      "name": "tv123.vvvv.ee",
-      "url": "http://tv123.vvvv.ee/tv.m3u"
-    },
-    {
       "name": "潇雨萌萌",
       "url": "http://43.251.226.110:9991/0hygc7"
     },
     {
-      "name": "China TV",
-      "url": "https://live.264788.xyz/sub/02RZNrjpqTMOrSdPX7FPyOxgUlgHKh/txt"
+      "name": "freetv",
+      "url": "https://t.freetv.fun/m3u/playlist.m3u"
     }
   ]
 }
