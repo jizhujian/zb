@@ -222,38 +222,6 @@
       },
       "exclude": "34",
       "timeout": 10
-    },
-    {
-      "key": "瓜子看球",
-      "name": "⚽瓜子┃看球",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "GzSport"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "88看球",
-      "name": "⚽88┃看球",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "Kanqiu"
-      },
-      "timeout": 10
     }
   ],
   "parses": [
