@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+  "spider": "./裤佬spider;md5;f5a7cd10cfe6f902991ff6c3eb05f901",
   "lives": [
     {
       "name": "江苏移动",
@@ -18,80 +18,132 @@
       "name": "✈️TG频道@stymei",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "./裤佬跑马灯",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./裤佬跑马灯.txt"
+      "filterable": 1
     },
     {
-      "key": "裤佬免扫4K",
-      "name": "👖裤佬丨免扫丨4K",
+      "key": "裤佬网盘免扫码",
+      "name": "👖网盘丨4K丨免扫",
       "type": 3,
-      "api": "csp_AweSomeGuard",
+      "api": "csp_PanTa",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "裤佬瓜子影视",
+      "name": "👖裤佬丨瓜子丨影视",
+      "type": 3,
+      "api": "csp_Guazi",
+      "searchable": 1
+    },
+    {
+      "key": "裤佬星辰影视",
+      "name": "👖裤佬丨星辰丨影视",
+      "type": 3,
+      "api": "./星辰影院.js"
+    },
+    {
+      "key": "裤佬360影视",
+      "name": "👖裤佬丨360丨影视",
+      "type": 3,
+      "api": "csp_Kan360",
+      "searchable": 1,
       "filterable": 1,
       "ext": {
-        "sp": "Panta"
-      },
-      "timeout": 25
+        "filter": "https://open.wya6.com/d/down/2026/json/360.json",
+        "fishjx": [
+          "https://jx.xmflv.com/?url="
+        ]
+      }
+    },
+    {
+      "key": "裤佬热播影视",
+      "name": "👖裤佬丨热播丨影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "裤佬三秋影视",
+      "name": "👖裤佬丨三秋丨影视",
+      "api": "csp_App3Q",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "裤佬厂长影视",
+      "name": "👖裤佬丨厂长丨影视",
+      "type": 3,
+      "api": "csp_CZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.czzymovie.com"
+    },
+    {
+      "key": "裤佬文才影视",
+      "name": "👖裤佬丨文才丨影视",
+      "type": 3,
+      "api": "csp_WenCai",
+      "searchable": 1,
+      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+    },
+    {
+      "key": "裤佬在线影视",
+      "name": "👖裤佬丨在线丨影视",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "ext": "https://www.zxzjhd.com"
+    },
+    {
+      "key": "裤佬爱看影视",
+      "name": "👖裤佬丨爱看丨影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
     },
     {
       "key": "裤佬6V影视",
       "name": "👖裤佬丨6V丨影视",
       "type": 3,
-      "api": "csp_AweSomeGuard",
+      "api": "csp_Xb6v",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "sp": "Xb6v"
-      },
-      "timeout": 20
+      "filterable": 1
     },
     {
-      "key": "裤佬比特影视",
-      "name": "👖裤佬丨比特丨影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Btt"
-      },
-      "timeout": 10
+      "key": "裤佬剧海影视",
+      "name": "👖裤佬丨剧海丨影视",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net:6628/?spider=剧海大全"
     },
     {
-      "key": "裤佬糯米影视",
-      "name": "👖裤佬丨糯米丨影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys"
-      },
-      "timeout": 10
+      "key": "裤佬毒舌影视",
+      "name": "👖裤佬丨毒舌丨影视",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net:6628/?spider=毒舌影视"
     },
     {
-      "key": "裤佬韩圈影视",
-      "name": "👖裤佬丨韩圈丨影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "HanXiaoQuan"
-      },
-      "timeout": 10
+      "key": "裤佬袋鼠影视",
+      "name": "👖裤佬丨袋鼠丨影视",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net:6628/?spider=袋鼠影视"
+    },
+    {
+      "key": "裤佬达达影视",
+      "name": "👖裤佬丨达达丨影视",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net:6628/?spider=达达兔影院"
     },
     {
       "key": "裤佬爬虫影视",
@@ -110,6 +162,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "裤佬EmbyJS",
+      "name": "👖裤佬丨Emby丨JS",
+      "type": 3,
+      "api": "./Emby.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "裤佬荐片JS",
@@ -135,6 +196,15 @@
       "key": "裤佬猎手PY",
       "name": "👖裤佬丨猎手丨PY",
       "api": "./T3猎手.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "裤佬兄弟PY",
+      "name": "👖裤佬丨兄弟丨PY",
+      "api": "./T3兄弟影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,

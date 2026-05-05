@@ -222,6 +222,30 @@
       "timeout": 20
     },
     {
+      "key": "裤佬剧海影视",
+      "name": "👖裤佬丨剧海丨影视",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net:6628/?spider=剧海大全"
+    },
+    {
+      "key": "裤佬毒舌影视",
+      "name": "👖裤佬丨毒舌丨影视",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net:6628/?spider=毒舌影视"
+    },
+    {
+      "key": "裤佬袋鼠影视",
+      "name": "👖裤佬丨袋鼠丨影视",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net:6628/?spider=袋鼠影视"
+    },
+    {
+      "key": "裤佬达达影视",
+      "name": "👖裤佬丨达达丨影视",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net:6628/?spider=达达兔影院"
+    },
+    {
       "key": "裤佬爬虫影视",
       "name": "👖裤佬丨爬虫丨影视",
       "type": 1,
@@ -238,6 +262,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "裤佬EmbyJS",
+      "name": "👖裤佬丨Emby丨JS",
+      "type": 3,
+      "api": "./Emby.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "裤佬荐片JS",
@@ -263,6 +296,15 @@
       "key": "裤佬猎手PY",
       "name": "👖裤佬丨猎手丨PY",
       "api": "./T3猎手.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "裤佬兄弟PY",
+      "name": "👖裤佬丨兄弟丨PY",
+      "api": "./T3兄弟影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
