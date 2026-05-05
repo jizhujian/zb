@@ -17,12 +17,10 @@
       "key": "裤佬豆瓣片单",
       "name": "✈️TG频道@stymei",
       "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": {
-        "sp": "Douban"
-      }
+      "api": "csp_Douban",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
     },
     {
       "key": "裤佬免扫4K",
@@ -60,8 +58,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "sp": "Btt",
-        "danmu": true
+        "sp": "Btt"
       },
       "timeout": 10
     },
@@ -75,8 +72,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "sp": "Nmys",
-        "danmu": true
+        "sp": "Nmys"
       },
       "timeout": 10
     },
@@ -91,8 +87,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "sp": "HanXiaoQuan",
-        "danmu": true
+        "sp": "HanXiaoQuan"
       },
       "timeout": 10
     },
@@ -109,7 +104,7 @@
       "key": "裤佬独播JS",
       "name": "👖裤佬丨独播丨JS",
       "type": 3,
-      "api": "http://mpimg.cn/down.php/fbe5493683cbef26437721513d495d7d.js",
+      "api": "./独播库.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -118,7 +113,7 @@
       "key": "裤佬荐片JS",
       "name": "👖裤佬丨荐片丨JS",
       "type": 3,
-      "api": "http://mpimg.cn/down.php/16ba56f7ddd38134bb0725ad63f1f72b.js",
+      "api": "./荐片.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -128,7 +123,7 @@
     {
       "key": "裤佬界影PY",
       "name": "👖裤佬丨界影丨PY",
-      "api": "http://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py",
+      "api": "./T3界影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -137,7 +132,7 @@
     {
       "key": "裤佬猎手PY",
       "name": "👖裤佬丨猎手丨PY",
-      "api": "http://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
+      "api": "./T3猎手.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
