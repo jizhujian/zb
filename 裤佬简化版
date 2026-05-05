@@ -18,9 +18,11 @@
       "name": "✈️TG频道@stymei",
       "type": 3,
       "api": "csp_Douban",
+      "jar": "./裤佬跑马灯",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "./裤佬跑马灯.txt"
     },
     {
       "key": "裤佬免扫4K",
