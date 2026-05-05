@@ -1,10 +1,9 @@
 {
   "spider": "./饭太硬spider;md5;69a2e21f399421cf1f012a5ad501e31f",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "点我切源",
-      "name": "新增嘟嘟盘，到【太太太硬了】领免费容量",
+      "key": "豆瓣",
+      "name": "豆瓣｜首页",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -141,26 +140,6 @@
       "quickSearch": 1,
       "changeable": 1
     }
-  ],
-  "rules": [
-    {
-      "name": "cdn.ryplay",
-      "hosts": [
-        "cdn.ryplay"
-      ],
-      "regex": [
-        "5.480000",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    }
-  ],
-  "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
-  "hosts": [
-    "img1.wsyzy.org=danmu.888484.xyz",
-    "fiizvfck.top=danmu.888484.xyz"
   ],
   "lives": [
     {
